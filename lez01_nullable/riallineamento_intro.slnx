@@ -23,4 +23,7 @@
   <Project Path="lez07_record_with/lez07_record_with.csproj" Id="3502e545-cf80-4e0e-9921-f98435e9d3a5">
     <BuildType Solution="Json|*" Project="Debug" />
   </Project>
+  <Project Path="lez08_code/lez08_code.csproj" Id="bd451a6c-27eb-4e86-b919-74698777acd8">
+    <BuildType Solution="Json|*" Project="Debug" />
+  </Project>
 </Solution>

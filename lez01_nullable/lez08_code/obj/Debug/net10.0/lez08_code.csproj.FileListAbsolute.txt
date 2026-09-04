@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez08_code\bin\Debug\net10.0\lez08_code.exe
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez08_code\bin\Debug\net10.0\lez08_code.deps.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez08_code\bin\Debug\net10.0\lez08_code.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez08_code\bin\Debug\net10.0\lez08_code.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez08_code\bin\Debug\net10.0\lez08_code.pdb
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez08_code\obj\Debug\net10.0\lez08_code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez08_code\obj\Debug\net10.0\lez08_code.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez08_code\obj\Debug\net10.0\lez08_code.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez08_code\obj\Debug\net10.0\lez08_code.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez08_code\obj\Debug\net10.0\lez08_code.sourcelink.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez08_code\obj\Debug\net10.0\lez08_code.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez08_code\obj\Debug\net10.0\refint\lez08_code.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez08_code\obj\Debug\net10.0\lez08_code.pdb
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez08_code\obj\Debug\net10.0\lez08_code.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez08_code\obj\Debug\net10.0\ref\lez08_code.dll
