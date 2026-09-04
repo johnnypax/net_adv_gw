@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez12_linq_intro\bin\Debug\net10.0\lez12_linq_intro.exe
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez12_linq_intro\bin\Debug\net10.0\lez12_linq_intro.deps.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez12_linq_intro\bin\Debug\net10.0\lez12_linq_intro.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez12_linq_intro\bin\Debug\net10.0\lez12_linq_intro.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez12_linq_intro\bin\Debug\net10.0\lez12_linq_intro.pdb
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez12_linq_intro\obj\Debug\net10.0\lez12_linq_intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez12_linq_intro\obj\Debug\net10.0\lez12_linq_intro.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez12_linq_intro\obj\Debug\net10.0\lez12_linq_intro.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez12_linq_intro\obj\Debug\net10.0\lez12_linq_intro.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez12_linq_intro\obj\Debug\net10.0\lez12_linq_intro.sourcelink.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez12_linq_intro\obj\Debug\net10.0\lez12_linq_intro.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez12_linq_intro\obj\Debug\net10.0\refint\lez12_linq_intro.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez12_linq_intro\obj\Debug\net10.0\lez12_linq_intro.pdb
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez12_linq_intro\obj\Debug\net10.0\lez12_linq_intro.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez12_linq_intro\obj\Debug\net10.0\ref\lez12_linq_intro.dll

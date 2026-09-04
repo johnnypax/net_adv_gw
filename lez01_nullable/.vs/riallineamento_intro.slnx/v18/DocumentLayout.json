@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBF65ED-8193-46BA-B4F5-ECE78939A294}|lez13_linq_group\\lez13_linq_group.csproj|c:\\users\\academy\\source\\repos\\gw\\lez01_nullable\\lez13_linq_group\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBF65ED-8193-46BA-B4F5-ECE78939A294}|lez13_linq_group\\lez13_linq_group.csproj|solutionrelative:lez13_linq_group\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607C6C85-D33C-40B6-AC66-0BE84164033F}|lez12_linq_intro\\lez12_linq_intro.csproj|c:\\users\\academy\\source\\repos\\gw\\lez01_nullable\\lez12_linq_intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607C6C85-D33C-40B6-AC66-0BE84164033F}|lez12_linq_intro\\lez12_linq_intro.csproj|solutionrelative:lez12_linq_intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez13_linq_group\\Program.cs",
+              "RelativeDocumentMoniker": "lez13_linq_group\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez13_linq_group\\Program.cs",
+              "RelativeToolTip": "lez13_linq_group\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAmwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T15:16:40.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez12_linq_intro\\Program.cs",
+              "RelativeDocumentMoniker": "lez12_linq_intro\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez12_linq_intro\\Program.cs",
+              "RelativeToolTip": "lez12_linq_intro\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T14:48:39.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

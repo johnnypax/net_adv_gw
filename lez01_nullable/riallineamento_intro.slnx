@@ -35,4 +35,10 @@
   <Project Path="lez11_lambda/lez11_lambda.csproj" Id="b35595c0-0e81-4b20-92ab-0c734fc8abb1">
     <BuildType Solution="Json|*" Project="Debug" />
   </Project>
+  <Project Path="lez12_linq_intro/lez12_linq_intro.csproj" Id="607c6c85-d33c-40b6-ac66-0be84164033f">
+    <BuildType Solution="Json|*" Project="Debug" />
+  </Project>
+  <Project Path="lez13_linq_group/lez13_linq_group.csproj" Id="cebf65ed-8193-46ba-b4f5-ece78939a294">
+    <BuildType Solution="Json|*" Project="Debug" />
+  </Project>
 </Solution>

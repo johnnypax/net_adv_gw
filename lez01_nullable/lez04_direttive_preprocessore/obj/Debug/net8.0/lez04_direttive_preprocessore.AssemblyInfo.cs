@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lez04_direttive_preprocessore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0a8950fa16bf7158f1ad27582bd8df60fa47506")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+418f60191d33e57b417985006c894f44f66c9931")]
 [assembly: System.Reflection.AssemblyProductAttribute("lez04_direttive_preprocessore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lez04_direttive_preprocessore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
