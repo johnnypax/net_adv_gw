@@ -17,4 +17,10 @@
   <Project Path="lez05_direttive_avanzate/lez05_direttive_avanzate.csproj" Id="7852e244-725e-4cb8-9ceb-bef72e2fc961">
     <BuildType Solution="Json|*" Project="Text" />
   </Project>
+  <Project Path="lez06_records/lez06_records.csproj" Id="f78089b7-680e-4d52-992c-ffe96e051839">
+    <BuildType Solution="Json|*" Project="Debug" />
+  </Project>
+  <Project Path="lez07_record_with/lez07_record_with.csproj" Id="3502e545-cf80-4e0e-9921-f98435e9d3a5">
+    <BuildType Solution="Json|*" Project="Debug" />
+  </Project>
 </Solution>

@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez07_record_with\bin\Debug\net10.0\lez07_record_with.exe
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez07_record_with\bin\Debug\net10.0\lez07_record_with.deps.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez07_record_with\bin\Debug\net10.0\lez07_record_with.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez07_record_with\bin\Debug\net10.0\lez07_record_with.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez07_record_with\bin\Debug\net10.0\lez07_record_with.pdb
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez07_record_with\obj\Debug\net10.0\lez07_record_with.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez07_record_with\obj\Debug\net10.0\lez07_record_with.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez07_record_with\obj\Debug\net10.0\lez07_record_with.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez07_record_with\obj\Debug\net10.0\lez07_record_with.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez07_record_with\obj\Debug\net10.0\lez07_record_with.sourcelink.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez07_record_with\obj\Debug\net10.0\lez07_record_with.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez07_record_with\obj\Debug\net10.0\refint\lez07_record_with.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez07_record_with\obj\Debug\net10.0\lez07_record_with.pdb
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez07_record_with\obj\Debug\net10.0\lez07_record_with.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez07_record_with\obj\Debug\net10.0\ref\lez07_record_with.dll

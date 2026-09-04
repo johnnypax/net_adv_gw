@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lez02_nullable_ticket")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef003b9e19dda778cd90c72c3e4e43d8c64ccb14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01e07a084ae9a09bf859ca180f1053bc001f4911")]
 [assembly: System.Reflection.AssemblyProductAttribute("lez02_nullable_ticket")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lez02_nullable_ticket")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
