@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez04_direttive_preprocessore\bin\Release\net10.0\lez04_direttive_preprocessore.exe
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez04_direttive_preprocessore\bin\Release\net10.0\lez04_direttive_preprocessore.deps.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez04_direttive_preprocessore\bin\Release\net10.0\lez04_direttive_preprocessore.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez04_direttive_preprocessore\bin\Release\net10.0\lez04_direttive_preprocessore.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez04_direttive_preprocessore\bin\Release\net10.0\lez04_direttive_preprocessore.pdb
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez04_direttive_preprocessore\obj\Release\net10.0\lez04_direttive_preprocessore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez04_direttive_preprocessore\obj\Release\net10.0\lez04_direttive_preprocessore.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez04_direttive_preprocessore\obj\Release\net10.0\lez04_direttive_preprocessore.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez04_direttive_preprocessore\obj\Release\net10.0\lez04_direttive_preprocessore.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez04_direttive_preprocessore\obj\Release\net10.0\lez04_direttive_preprocessore.sourcelink.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez04_direttive_preprocessore\obj\Release\net10.0\lez04_direttive_preprocessore.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez04_direttive_preprocessore\obj\Release\net10.0\refint\lez04_direttive_preprocessore.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez04_direttive_preprocessore\obj\Release\net10.0\lez04_direttive_preprocessore.pdb
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez04_direttive_preprocessore\obj\Release\net10.0\lez04_direttive_preprocessore.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez04_direttive_preprocessore\obj\Release\net10.0\ref\lez04_direttive_preprocessore.dll

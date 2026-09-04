@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lez01_nullable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3253b78436143f004fc5f1b42c79b97372f80995")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6112a708b9fc3f47f9a7bda7707a1cc32082cbe")]
 [assembly: System.Reflection.AssemblyProductAttribute("lez01_nullable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lez01_nullable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

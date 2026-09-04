@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_maybe_null\bin\Debug\net10.0\lez03_maybe_null.exe
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_maybe_null\bin\Debug\net10.0\lez03_maybe_null.deps.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_maybe_null\bin\Debug\net10.0\lez03_maybe_null.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_maybe_null\bin\Debug\net10.0\lez03_maybe_null.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_maybe_null\bin\Debug\net10.0\lez03_maybe_null.pdb
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_maybe_null\obj\Debug\net10.0\lez03_maybe_null.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_maybe_null\obj\Debug\net10.0\lez03_maybe_null.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_maybe_null\obj\Debug\net10.0\lez03_maybe_null.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_maybe_null\obj\Debug\net10.0\lez03_maybe_null.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_maybe_null\obj\Debug\net10.0\lez03_maybe_null.sourcelink.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_maybe_null\obj\Debug\net10.0\lez03_maybe_null.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_maybe_null\obj\Debug\net10.0\refint\lez03_maybe_null.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_maybe_null\obj\Debug\net10.0\lez03_maybe_null.pdb
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_maybe_null\obj\Debug\net10.0\lez03_maybe_null.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_maybe_null\obj\Debug\net10.0\ref\lez03_maybe_null.dll
