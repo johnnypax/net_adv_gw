@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez10_metodi_generici\bin\Debug\net10.0\lez10_metodi_generici.exe
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez10_metodi_generici\bin\Debug\net10.0\lez10_metodi_generici.deps.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez10_metodi_generici\bin\Debug\net10.0\lez10_metodi_generici.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez10_metodi_generici\bin\Debug\net10.0\lez10_metodi_generici.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez10_metodi_generici\bin\Debug\net10.0\lez10_metodi_generici.pdb
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez10_metodi_generici\obj\Debug\net10.0\lez10_metodi_generici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez10_metodi_generici\obj\Debug\net10.0\lez10_metodi_generici.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez10_metodi_generici\obj\Debug\net10.0\lez10_metodi_generici.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez10_metodi_generici\obj\Debug\net10.0\lez10_metodi_generici.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez10_metodi_generici\obj\Debug\net10.0\lez10_metodi_generici.sourcelink.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez10_metodi_generici\obj\Debug\net10.0\lez10_metodi_generici.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez10_metodi_generici\obj\Debug\net10.0\refint\lez10_metodi_generici.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez10_metodi_generici\obj\Debug\net10.0\lez10_metodi_generici.pdb
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez10_metodi_generici\obj\Debug\net10.0\lez10_metodi_generici.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez10_metodi_generici\obj\Debug\net10.0\ref\lez10_metodi_generici.dll

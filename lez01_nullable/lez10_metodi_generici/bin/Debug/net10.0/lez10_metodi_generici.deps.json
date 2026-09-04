@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "lez10_metodi_generici/1.0.0": {
+        "runtime": {
+          "lez10_metodi_generici.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lez10_metodi_generici/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

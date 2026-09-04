@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez09_task_studenti\bin\Debug\net10.0\lez09_task_studenti.exe
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez09_task_studenti\bin\Debug\net10.0\lez09_task_studenti.deps.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez09_task_studenti\bin\Debug\net10.0\lez09_task_studenti.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez09_task_studenti\bin\Debug\net10.0\lez09_task_studenti.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez09_task_studenti\bin\Debug\net10.0\lez09_task_studenti.pdb
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez09_task_studenti\obj\Debug\net10.0\lez09_task_studenti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez09_task_studenti\obj\Debug\net10.0\lez09_task_studenti.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez09_task_studenti\obj\Debug\net10.0\lez09_task_studenti.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez09_task_studenti\obj\Debug\net10.0\lez09_task_studenti.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez09_task_studenti\obj\Debug\net10.0\lez09_task_studenti.sourcelink.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez09_task_studenti\obj\Debug\net10.0\lez09_task_studenti.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez09_task_studenti\obj\Debug\net10.0\refint\lez09_task_studenti.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez09_task_studenti\obj\Debug\net10.0\lez09_task_studenti.pdb
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez09_task_studenti\obj\Debug\net10.0\lez09_task_studenti.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez09_task_studenti\obj\Debug\net10.0\ref\lez09_task_studenti.dll

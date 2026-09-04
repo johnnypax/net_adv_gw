@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez11_lambda\bin\Debug\net10.0\lez11_lambda.exe
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez11_lambda\bin\Debug\net10.0\lez11_lambda.deps.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez11_lambda\bin\Debug\net10.0\lez11_lambda.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez11_lambda\bin\Debug\net10.0\lez11_lambda.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez11_lambda\bin\Debug\net10.0\lez11_lambda.pdb
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez11_lambda\obj\Debug\net10.0\lez11_lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez11_lambda\obj\Debug\net10.0\lez11_lambda.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez11_lambda\obj\Debug\net10.0\lez11_lambda.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez11_lambda\obj\Debug\net10.0\lez11_lambda.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez11_lambda\obj\Debug\net10.0\lez11_lambda.sourcelink.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez11_lambda\obj\Debug\net10.0\lez11_lambda.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez11_lambda\obj\Debug\net10.0\refint\lez11_lambda.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez11_lambda\obj\Debug\net10.0\lez11_lambda.pdb
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez11_lambda\obj\Debug\net10.0\lez11_lambda.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez11_lambda\obj\Debug\net10.0\ref\lez11_lambda.dll

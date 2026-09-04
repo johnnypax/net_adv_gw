@@ -26,4 +26,13 @@
   <Project Path="lez08_code/lez08_code.csproj" Id="bd451a6c-27eb-4e86-b919-74698777acd8">
     <BuildType Solution="Json|*" Project="Debug" />
   </Project>
+  <Project Path="lez09_task_studenti/lez09_task_studenti.csproj" Id="b0b72e6d-dfce-4cf5-a2cb-1374755c6ec9">
+    <BuildType Solution="Json|*" Project="Debug" />
+  </Project>
+  <Project Path="lez10_metodi_generici/lez10_metodi_generici.csproj" Id="86a053ca-95fa-412b-821d-281fa086dcd4">
+    <BuildType Solution="Json|*" Project="Debug" />
+  </Project>
+  <Project Path="lez11_lambda/lez11_lambda.csproj" Id="b35595c0-0e81-4b20-92ab-0c734fc8abb1">
+    <BuildType Solution="Json|*" Project="Debug" />
+  </Project>
 </Solution>

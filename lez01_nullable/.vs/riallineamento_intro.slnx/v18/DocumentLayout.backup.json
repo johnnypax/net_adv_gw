@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD451A6C-27EB-4E86-B919-74698777ACD8}|lez08_code\\lez08_code.csproj|c:\\users\\academy\\source\\repos\\gw\\lez01_nullable\\lez08_code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD451A6C-27EB-4E86-B919-74698777ACD8}|lez08_code\\lez08_code.csproj|solutionrelative:lez08_code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B35595C0-0E81-4B20-92AB-0C734FC8ABB1}|lez11_lambda\\lez11_lambda.csproj|c:\\users\\academy\\source\\repos\\gw\\lez01_nullable\\lez11_lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35595C0-0E81-4B20-92AB-0C734FC8ABB1}|lez11_lambda\\lez11_lambda.csproj|solutionrelative:lez11_lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A053CA-95FA-412B-821D-281FA086DCD4}|lez10_metodi_generici\\lez10_metodi_generici.csproj|c:\\users\\academy\\source\\repos\\gw\\lez01_nullable\\lez10_metodi_generici\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A053CA-95FA-412B-821D-281FA086DCD4}|lez10_metodi_generici\\lez10_metodi_generici.csproj|solutionrelative:lez10_metodi_generici\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez08_code\\Program.cs",
-              "RelativeDocumentMoniker": "lez08_code\\Program.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez08_code\\Program.cs",
-              "RelativeToolTip": "lez08_code\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwB0AAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez11_lambda\\Program.cs",
+              "RelativeDocumentMoniker": "lez11_lambda\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez11_lambda\\Program.cs",
+              "RelativeToolTip": "lez11_lambda\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-04T12:16:02.144Z",
+              "WhenOpened": "2026-09-04T14:26:06.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez10_metodi_generici\\Program.cs",
+              "RelativeDocumentMoniker": "lez10_metodi_generici\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez10_metodi_generici\\Program.cs",
+              "RelativeToolTip": "lez10_metodi_generici\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T13:34:56.454Z",
               "EditorCaption": ""
             }
           ]
