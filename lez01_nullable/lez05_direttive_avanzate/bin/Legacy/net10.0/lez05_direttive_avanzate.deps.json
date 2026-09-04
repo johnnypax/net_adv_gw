@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "lez05_direttive_avanzate/1.0.0": {
+        "runtime": {
+          "lez05_direttive_avanzate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lez05_direttive_avanzate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

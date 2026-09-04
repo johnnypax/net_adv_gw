@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez05_direttive_avanzate\bin\Legacy\net10.0\lez05_direttive_avanzate.exe
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez05_direttive_avanzate\bin\Legacy\net10.0\lez05_direttive_avanzate.deps.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez05_direttive_avanzate\bin\Legacy\net10.0\lez05_direttive_avanzate.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez05_direttive_avanzate\bin\Legacy\net10.0\lez05_direttive_avanzate.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez05_direttive_avanzate\bin\Legacy\net10.0\lez05_direttive_avanzate.pdb
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez05_direttive_avanzate\obj\Legacy\net10.0\lez05_direttive_avanzate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez05_direttive_avanzate\obj\Legacy\net10.0\lez05_direttive_avanzate.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez05_direttive_avanzate\obj\Legacy\net10.0\lez05_direttive_avanzate.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez05_direttive_avanzate\obj\Legacy\net10.0\lez05_direttive_avanzate.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez05_direttive_avanzate\obj\Legacy\net10.0\lez05_direttive_avanzate.sourcelink.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez05_direttive_avanzate\obj\Legacy\net10.0\lez05_direttive_avanzate.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez05_direttive_avanzate\obj\Legacy\net10.0\refint\lez05_direttive_avanzate.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez05_direttive_avanzate\obj\Legacy\net10.0\lez05_direttive_avanzate.pdb
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez05_direttive_avanzate\obj\Legacy\net10.0\lez05_direttive_avanzate.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez05_direttive_avanzate\obj\Legacy\net10.0\ref\lez05_direttive_avanzate.dll

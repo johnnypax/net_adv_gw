@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<Configurations>Debug;Release;Text;Json;Legacy</Configurations>
+  </PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)'=='Text'">
+		<DefineConstants>TEXT_EXPORT</DefineConstants>
+	</PropertyGroup>
+	<PropertyGroup Condition="'$(Configuration)'=='Json'">
+		<DefineConstants>JSON_EXPORT</DefineConstants>
+	</PropertyGroup>
+	<PropertyGroup Condition="'$(Configuration)'=='Legacy'">
+		<DefineConstants>LEGACY_EXPORT</DefineConstants>
+	</PropertyGroup>
+
+</Project>

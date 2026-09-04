@@ -1,6 +1,20 @@
 <Solution>
+  <Configurations>
+    <BuildType Name="Debug" />
+    <BuildType Name="Json" />
+    <BuildType Name="Release" />
+  </Configurations>
   <Project Path="lez01_maybe_null/lez03_maybe_null.csproj" Id="156462d4-74c9-4abd-94f6-7c05f309c01f" />
-  <Project Path="lez01_nullable/lez01_nullable.csproj" />
-  <Project Path="lez02_nullable_ticket/lez02_nullable_ticket.csproj" Id="4681a765-3da5-4904-802c-83e209475fea" />
-  <Project Path="lez04_direttive_preprocessore/lez04_direttive_preprocessore.csproj" Id="ff3f3396-29b2-4a24-bef9-f089005a449c" />
+  <Project Path="lez01_nullable/lez01_nullable.csproj">
+    <BuildType Solution="Json|*" Project="Release" />
+  </Project>
+  <Project Path="lez02_nullable_ticket/lez02_nullable_ticket.csproj" Id="4681a765-3da5-4904-802c-83e209475fea">
+    <BuildType Solution="Json|*" Project="Release" />
+  </Project>
+  <Project Path="lez04_direttive_preprocessore/lez04_direttive_preprocessore.csproj" Id="ff3f3396-29b2-4a24-bef9-f089005a449c">
+    <BuildType Solution="Json|*" Project="Release" />
+  </Project>
+  <Project Path="lez05_direttive_avanzate/lez05_direttive_avanzate.csproj" Id="7852e244-725e-4cb8-9ceb-bef72e2fc961">
+    <BuildType Solution="Json|*" Project="Text" />
+  </Project>
 </Solution>

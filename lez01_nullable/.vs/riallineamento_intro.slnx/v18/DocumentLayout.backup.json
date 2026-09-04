@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF3F3396-29B2-4A24-BEF9-F089005A449C}|lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj|c:\\users\\academy\\source\\repos\\gw\\lez01_nullable\\lez04_direttive_preprocessore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF3F3396-29B2-4A24-BEF9-F089005A449C}|lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj|solutionrelative:lez04_direttive_preprocessore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7852E244-725E-4CB8-9CEB-BEF72E2FC961}|lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj|c:\\users\\academy\\source\\repos\\gw\\lez01_nullable\\lez05_direttive_avanzate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7852E244-725E-4CB8-9CEB-BEF72E2FC961}|lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj|solutionrelative:lez05_direttive_avanzate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7852E244-725E-4CB8-9CEB-BEF72E2FC961}|lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj|c:\\users\\academy\\source\\repos\\gw\\lez01_nullable\\lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7852E244-725E-4CB8-9CEB-BEF72E2FC961}|lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj|solutionrelative:lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF3F3396-29B2-4A24-BEF9-F089005A449C}|lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj|c:\\users\\academy\\source\\repos\\gw\\lez01_nullable\\lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{FF3F3396-29B2-4A24-BEF9-F089005A449C}|lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj|solutionrelative:lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3F3396-29B2-4A24-BEF9-F089005A449C}|lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj|c:\\users\\academy\\source\\repos\\gw\\lez01_nullable\\lez04_direttive_preprocessore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3F3396-29B2-4A24-BEF9-F089005A449C}|lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj|solutionrelative:lez04_direttive_preprocessore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,25 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "lez04_direttive_preprocessore",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj",
-              "RelativeDocumentMoniker": "lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj",
-              "RelativeToolTip": "lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Title": "lez05_direttive_avanzate.csproj",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj",
+              "RelativeDocumentMoniker": "lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj",
+              "RelativeToolTip": "lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-04T09:30:42.617Z",
+              "WhenOpened": "2026-09-04T09:56:09.433Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez05_direttive_avanzate\\Program.cs",
+              "RelativeDocumentMoniker": "lez05_direttive_avanzate\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez05_direttive_avanzate\\Program.cs",
+              "RelativeToolTip": "lez05_direttive_avanzate\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T09:56:09.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lez04_direttive_preprocessore.csproj",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj",
+              "RelativeDocumentMoniker": "lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj",
+              "RelativeToolTip": "lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-04T09:30:42.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez04_direttive_preprocessore\\Program.cs",
               "RelativeDocumentMoniker": "lez04_direttive_preprocessore\\Program.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez04_direttive_preprocessore\\Program.cs",
               "RelativeToolTip": "lez04_direttive_preprocessore\\Program.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAuwCsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwCsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-04T09:25:53.995Z",
               "EditorCaption": ""
