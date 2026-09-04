@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez02_nullable_ticket\bin\Debug\net10.0\lez02_nullable_ticket.exe
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez02_nullable_ticket\bin\Debug\net10.0\lez02_nullable_ticket.deps.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez02_nullable_ticket\bin\Debug\net10.0\lez02_nullable_ticket.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez02_nullable_ticket\bin\Debug\net10.0\lez02_nullable_ticket.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez02_nullable_ticket\bin\Debug\net10.0\lez02_nullable_ticket.pdb
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez02_nullable_ticket\obj\Debug\net10.0\lez02_nullable_ticket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez02_nullable_ticket\obj\Debug\net10.0\lez02_nullable_ticket.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez02_nullable_ticket\obj\Debug\net10.0\lez02_nullable_ticket.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez02_nullable_ticket\obj\Debug\net10.0\lez02_nullable_ticket.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez02_nullable_ticket\obj\Debug\net10.0\lez02_nullable_ticket.sourcelink.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez02_nullable_ticket\obj\Debug\net10.0\lez02_nullable_ticket.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez02_nullable_ticket\obj\Debug\net10.0\refint\lez02_nullable_ticket.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez02_nullable_ticket\obj\Debug\net10.0\lez02_nullable_ticket.pdb
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez02_nullable_ticket\obj\Debug\net10.0\lez02_nullable_ticket.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez02_nullable_ticket\obj\Debug\net10.0\ref\lez02_nullable_ticket.dll

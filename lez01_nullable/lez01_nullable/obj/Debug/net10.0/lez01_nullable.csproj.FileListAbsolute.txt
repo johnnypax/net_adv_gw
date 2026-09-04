@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_nullable\bin\Debug\net10.0\lez01_nullable.exe
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_nullable\bin\Debug\net10.0\lez01_nullable.deps.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_nullable\bin\Debug\net10.0\lez01_nullable.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_nullable\bin\Debug\net10.0\lez01_nullable.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_nullable\bin\Debug\net10.0\lez01_nullable.pdb
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_nullable\obj\Debug\net10.0\lez01_nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_nullable\obj\Debug\net10.0\lez01_nullable.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_nullable\obj\Debug\net10.0\lez01_nullable.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_nullable\obj\Debug\net10.0\lez01_nullable.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_nullable\obj\Debug\net10.0\lez01_nullable.sourcelink.json
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_nullable\obj\Debug\net10.0\lez01_nullable.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_nullable\obj\Debug\net10.0\refint\lez01_nullable.dll
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_nullable\obj\Debug\net10.0\lez01_nullable.pdb
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_nullable\obj\Debug\net10.0\lez01_nullable.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\GW\lez01_nullable\lez01_nullable\obj\Debug\net10.0\ref\lez01_nullable.dll

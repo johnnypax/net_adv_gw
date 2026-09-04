@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "lez01_nullable/1.0.0": {
+        "runtime": {
+          "lez01_nullable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lez01_nullable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
