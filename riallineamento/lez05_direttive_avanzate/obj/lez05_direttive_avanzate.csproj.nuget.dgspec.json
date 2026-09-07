@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj": {}
+    "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj": {
+    "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj",
+        "projectUniqueName": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj",
         "projectName": "lez05_direttive_avanzate",
-        "projectPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj",
+        "projectPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj",
         "packagesPath": "C:\\Users\\ACADEMY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez05_direttive_avanzate\\obj\\",
+        "outputPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez05_direttive_avanzate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

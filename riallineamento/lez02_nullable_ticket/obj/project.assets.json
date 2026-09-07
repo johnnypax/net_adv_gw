@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez02_nullable_ticket\\lez02_nullable_ticket.csproj",
+      "projectUniqueName": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez02_nullable_ticket\\lez02_nullable_ticket.csproj",
       "projectName": "lez02_nullable_ticket",
-      "projectPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez02_nullable_ticket\\lez02_nullable_ticket.csproj",
+      "projectPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez02_nullable_ticket\\lez02_nullable_ticket.csproj",
       "packagesPath": "C:\\Users\\ACADEMY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez02_nullable_ticket\\obj\\",
+      "outputPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez02_nullable_ticket\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

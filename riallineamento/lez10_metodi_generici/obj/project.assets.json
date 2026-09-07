@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez10_metodi_generici\\lez10_metodi_generici.csproj",
+      "projectUniqueName": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez10_metodi_generici\\lez10_metodi_generici.csproj",
       "projectName": "lez10_metodi_generici",
-      "projectPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez10_metodi_generici\\lez10_metodi_generici.csproj",
+      "projectPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez10_metodi_generici\\lez10_metodi_generici.csproj",
       "packagesPath": "C:\\Users\\ACADEMY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez10_metodi_generici\\obj\\",
+      "outputPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez10_metodi_generici\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

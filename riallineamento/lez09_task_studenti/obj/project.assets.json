@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez09_task_studenti\\lez09_task_studenti.csproj",
+      "projectUniqueName": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez09_task_studenti\\lez09_task_studenti.csproj",
       "projectName": "lez09_task_studenti",
-      "projectPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez09_task_studenti\\lez09_task_studenti.csproj",
+      "projectPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez09_task_studenti\\lez09_task_studenti.csproj",
       "packagesPath": "C:\\Users\\ACADEMY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez09_task_studenti\\obj\\",
+      "outputPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez09_task_studenti\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

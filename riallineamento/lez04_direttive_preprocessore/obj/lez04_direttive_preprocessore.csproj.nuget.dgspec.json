@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj": {}
+    "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj": {
+    "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj",
+        "projectUniqueName": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj",
         "projectName": "lez04_direttive_preprocessore",
-        "projectPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj",
+        "projectPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj",
         "packagesPath": "C:\\Users\\ACADEMY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez04_direttive_preprocessore\\obj\\",
+        "outputPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez04_direttive_preprocessore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

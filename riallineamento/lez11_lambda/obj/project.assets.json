@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez11_lambda\\lez11_lambda.csproj",
+      "projectUniqueName": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez11_lambda\\lez11_lambda.csproj",
       "projectName": "lez11_lambda",
-      "projectPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez11_lambda\\lez11_lambda.csproj",
+      "projectPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez11_lambda\\lez11_lambda.csproj",
       "packagesPath": "C:\\Users\\ACADEMY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez11_lambda\\obj\\",
+      "outputPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez11_lambda\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

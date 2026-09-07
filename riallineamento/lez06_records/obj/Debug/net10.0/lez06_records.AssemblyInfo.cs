@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lez06_records")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+418f60191d33e57b417985006c894f44f66c9931")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84ce50b7e633292f37de28ed63424e26107c53a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("lez06_records")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lez06_records")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

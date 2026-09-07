@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez06_records\\lez06_records.csproj": {}
+    "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez06_records\\lez06_records.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez06_records\\lez06_records.csproj": {
+    "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez06_records\\lez06_records.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez06_records\\lez06_records.csproj",
+        "projectUniqueName": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez06_records\\lez06_records.csproj",
         "projectName": "lez06_records",
-        "projectPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez06_records\\lez06_records.csproj",
+        "projectPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez06_records\\lez06_records.csproj",
         "packagesPath": "C:\\Users\\ACADEMY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez06_records\\obj\\",
+        "outputPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez06_records\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

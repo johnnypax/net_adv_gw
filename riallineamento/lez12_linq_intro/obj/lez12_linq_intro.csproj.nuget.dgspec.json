@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez12_linq_intro\\lez12_linq_intro.csproj": {}
+    "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez12_linq_intro\\lez12_linq_intro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez12_linq_intro\\lez12_linq_intro.csproj": {
+    "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez12_linq_intro\\lez12_linq_intro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez12_linq_intro\\lez12_linq_intro.csproj",
+        "projectUniqueName": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez12_linq_intro\\lez12_linq_intro.csproj",
         "projectName": "lez12_linq_intro",
-        "projectPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez12_linq_intro\\lez12_linq_intro.csproj",
+        "projectPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez12_linq_intro\\lez12_linq_intro.csproj",
         "packagesPath": "C:\\Users\\ACADEMY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez12_linq_intro\\obj\\",
+        "outputPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez12_linq_intro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

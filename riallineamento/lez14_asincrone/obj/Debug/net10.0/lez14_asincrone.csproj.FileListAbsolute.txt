@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez14_asincrone\bin\Debug\net10.0\lez14_asincrone.exe
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez14_asincrone\bin\Debug\net10.0\lez14_asincrone.deps.json
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez14_asincrone\bin\Debug\net10.0\lez14_asincrone.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez14_asincrone\bin\Debug\net10.0\lez14_asincrone.dll
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez14_asincrone\bin\Debug\net10.0\lez14_asincrone.pdb
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez14_asincrone\obj\Debug\net10.0\lez14_asincrone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez14_asincrone\obj\Debug\net10.0\lez14_asincrone.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez14_asincrone\obj\Debug\net10.0\lez14_asincrone.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez14_asincrone\obj\Debug\net10.0\lez14_asincrone.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez14_asincrone\obj\Debug\net10.0\lez14_asincrone.sourcelink.json
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez14_asincrone\obj\Debug\net10.0\lez14_asincrone.dll
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez14_asincrone\obj\Debug\net10.0\refint\lez14_asincrone.dll
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez14_asincrone\obj\Debug\net10.0\lez14_asincrone.pdb
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez14_asincrone\obj\Debug\net10.0\lez14_asincrone.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez14_asincrone\obj\Debug\net10.0\ref\lez14_asincrone.dll

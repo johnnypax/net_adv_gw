@@ -41,4 +41,7 @@
   <Project Path="lez13_linq_group/lez13_linq_group.csproj" Id="cebf65ed-8193-46ba-b4f5-ece78939a294">
     <BuildType Solution="Json|*" Project="Debug" />
   </Project>
+  <Project Path="lez14_asincrone/lez14_asincrone.csproj" Id="e106de11-0b0d-4bc8-bab2-f02074acddce">
+    <BuildType Solution="Json|*" Project="Debug" />
+  </Project>
 </Solution>
