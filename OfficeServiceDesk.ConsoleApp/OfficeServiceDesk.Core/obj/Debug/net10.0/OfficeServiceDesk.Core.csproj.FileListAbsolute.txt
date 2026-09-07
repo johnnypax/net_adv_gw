@@ -1,0 +1,12 @@
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Core\bin\Debug\net10.0\OfficeServiceDesk.Core.deps.json
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Core\bin\Debug\net10.0\OfficeServiceDesk.Core.dll
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Core\bin\Debug\net10.0\OfficeServiceDesk.Core.pdb
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Core\obj\Debug\net10.0\OfficeServiceDesk.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Core\obj\Debug\net10.0\OfficeServiceDesk.Core.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Core\obj\Debug\net10.0\OfficeServiceDesk.Core.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Core\obj\Debug\net10.0\OfficeServiceDesk.Core.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Core\obj\Debug\net10.0\OfficeServiceDesk.Core.sourcelink.json
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Core\obj\Debug\net10.0\OfficeServiceDesk.Core.dll
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Core\obj\Debug\net10.0\refint\OfficeServiceDesk.Core.dll
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Core\obj\Debug\net10.0\OfficeServiceDesk.Core.pdb
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Core\obj\Debug\net10.0\ref\OfficeServiceDesk.Core.dll

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="OfficeServiceDesk.Application/OfficeServiceDesk.Application.csproj" />
+  <Project Path="OfficeServiceDesk.ConsoleApp/OfficeServiceDesk.ConsoleApp.csproj" />
+  <Project Path="OfficeServiceDesk.Core/OfficeServiceDesk.Core.csproj" />
+  <Project Path="OfficeServiceDesk.Infrastructure/OfficeServiceDesk.Infrastructure.csproj" />
+</Solution>

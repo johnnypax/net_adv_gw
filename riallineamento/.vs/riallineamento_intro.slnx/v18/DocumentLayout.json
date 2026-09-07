@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBF65ED-8193-46BA-B4F5-ECE78939A294}|lez13_linq_group\\lez13_linq_group.csproj|c:\\users\\academy\\source\\repos\\gw\\lez01_nullable\\lez13_linq_group\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBF65ED-8193-46BA-B4F5-ECE78939A294}|lez13_linq_group\\lez13_linq_group.csproj|solutionrelative:lez13_linq_group\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607C6C85-D33C-40B6-AC66-0BE84164033F}|lez12_linq_intro\\lez12_linq_intro.csproj|c:\\users\\academy\\source\\repos\\gw\\lez01_nullable\\lez12_linq_intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607C6C85-D33C-40B6-AC66-0BE84164033F}|lez12_linq_intro\\lez12_linq_intro.csproj|solutionrelative:lez12_linq_intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35595C0-0E81-4B20-92AB-0C734FC8ABB1}|lez11_lambda\\lez11_lambda.csproj|c:\\users\\academy\\source\\repos\\gw\\lez01_nullable\\lez11_lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35595C0-0E81-4B20-92AB-0C734FC8ABB1}|lez11_lambda\\lez11_lambda.csproj|solutionrelative:lez11_lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35595C0-0E81-4B20-92AB-0C734FC8ABB1}|lez11_lambda\\lez11_lambda.csproj|c:\\users\\academy\\source\\repos\\gw\\lez01_nullable\\lez11_lambda\\lez11_lambda.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B35595C0-0E81-4B20-92AB-0C734FC8ABB1}|lez11_lambda\\lez11_lambda.csproj|solutionrelative:lez11_lambda\\lez11_lambda.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A053CA-95FA-412B-821D-281FA086DCD4}|lez10_metodi_generici\\lez10_metodi_generici.csproj|c:\\users\\academy\\source\\repos\\gw\\lez01_nullable\\lez10_metodi_generici\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A053CA-95FA-412B-821D-281FA086DCD4}|lez10_metodi_generici\\lez10_metodi_generici.csproj|solutionrelative:lez10_metodi_generici\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD451A6C-27EB-4E86-B919-74698777ACD8}|lez08_code\\lez08_code.csproj|c:\\users\\academy\\source\\repos\\gw\\lez01_nullable\\lez08_code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD451A6C-27EB-4E86-B919-74698777ACD8}|lez08_code\\lez08_code.csproj|solutionrelative:lez08_code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3502E545-CF80-4E0E-9921-F98435E9D3A5}|lez07_record_with\\lez07_record_with.csproj|c:\\users\\academy\\source\\repos\\gw\\lez01_nullable\\lez07_record_with\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3502E545-CF80-4E0E-9921-F98435E9D3A5}|lez07_record_with\\lez07_record_with.csproj|solutionrelative:lez07_record_with\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78089B7-680E-4D52-992C-FFE96E051839}|lez06_records\\lez06_records.csproj|c:\\users\\academy\\source\\repos\\gw\\lez01_nullable\\lez06_records\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78089B7-680E-4D52-992C-FFE96E051839}|lez06_records\\lez06_records.csproj|solutionrelative:lez06_records\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7852E244-725E-4CB8-9CEB-BEF72E2FC961}|lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj|c:\\users\\academy\\source\\repos\\gw\\lez01_nullable\\lez05_direttive_avanzate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7852E244-725E-4CB8-9CEB-BEF72E2FC961}|lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj|solutionrelative:lez05_direttive_avanzate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3F3396-29B2-4A24-BEF9-F089005A449C}|lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj|c:\\users\\academy\\source\\repos\\gw\\lez01_nullable\\lez04_direttive_preprocessore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3F3396-29B2-4A24-BEF9-F089005A449C}|lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj|solutionrelative:lez04_direttive_preprocessore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7852E244-725E-4CB8-9CEB-BEF72E2FC961}|lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj|c:\\users\\academy\\source\\repos\\gw\\lez01_nullable\\lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7852E244-725E-4CB8-9CEB-BEF72E2FC961}|lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj|solutionrelative:lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3F3396-29B2-4A24-BEF9-F089005A449C}|lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj|c:\\users\\academy\\source\\repos\\gw\\lez01_nullable\\lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF3F3396-29B2-4A24-BEF9-F089005A449C}|lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj|solutionrelative:lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez13_linq_group\\Program.cs",
+              "RelativeDocumentMoniker": "lez13_linq_group\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez13_linq_group\\Program.cs",
+              "RelativeToolTip": "lez13_linq_group\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T06:56:15.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez12_linq_intro\\Program.cs",
+              "RelativeDocumentMoniker": "lez12_linq_intro\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez12_linq_intro\\Program.cs",
+              "RelativeToolTip": "lez12_linq_intro\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T06:53:49.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez11_lambda\\Program.cs",
+              "RelativeDocumentMoniker": "lez11_lambda\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez11_lambda\\Program.cs",
+              "RelativeToolTip": "lez11_lambda\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T06:52:18.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lez11_lambda",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez11_lambda\\lez11_lambda.csproj",
+              "RelativeDocumentMoniker": "lez11_lambda\\lez11_lambda.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez11_lambda\\lez11_lambda.csproj",
+              "RelativeToolTip": "lez11_lambda\\lez11_lambda.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-07T06:52:16.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez10_metodi_generici\\Program.cs",
+              "RelativeDocumentMoniker": "lez10_metodi_generici\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez10_metodi_generici\\Program.cs",
+              "RelativeToolTip": "lez10_metodi_generici\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T06:49:46.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez08_code\\Program.cs",
+              "RelativeDocumentMoniker": "lez08_code\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez08_code\\Program.cs",
+              "RelativeToolTip": "lez08_code\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwDUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T06:45:10.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez07_record_with\\Program.cs",
+              "RelativeDocumentMoniker": "lez07_record_with\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez07_record_with\\Program.cs",
+              "RelativeToolTip": "lez07_record_with\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T06:42:22.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez06_records\\Program.cs",
+              "RelativeDocumentMoniker": "lez06_records\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez06_records\\Program.cs",
+              "RelativeToolTip": "lez06_records\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T06:37:54.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez05_direttive_avanzate\\Program.cs",
+              "RelativeDocumentMoniker": "lez05_direttive_avanzate\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez05_direttive_avanzate\\Program.cs",
+              "RelativeToolTip": "lez05_direttive_avanzate\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T06:32:16.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "lez05_direttive_avanzate",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj",
+              "RelativeDocumentMoniker": "lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj",
+              "RelativeToolTip": "lez05_direttive_avanzate\\lez05_direttive_avanzate.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-07T06:31:40.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "lez04_direttive_preprocessore",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj",
+              "RelativeDocumentMoniker": "lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj",
+              "RelativeToolTip": "lez04_direttive_preprocessore\\lez04_direttive_preprocessore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-07T06:31:35.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez04_direttive_preprocessore\\Program.cs",
+              "RelativeDocumentMoniker": "lez04_direttive_preprocessore\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\lez01_nullable\\lez04_direttive_preprocessore\\Program.cs",
+              "RelativeToolTip": "lez04_direttive_preprocessore\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T06:28:44.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

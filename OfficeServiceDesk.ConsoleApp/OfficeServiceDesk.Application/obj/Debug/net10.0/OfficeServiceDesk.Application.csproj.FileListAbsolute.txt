@@ -1,0 +1,16 @@
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Application\bin\Debug\net10.0\OfficeServiceDesk.Application.deps.json
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Application\bin\Debug\net10.0\OfficeServiceDesk.Application.dll
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Application\bin\Debug\net10.0\OfficeServiceDesk.Application.pdb
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Application\bin\Debug\net10.0\OfficeServiceDesk.Core.dll
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Application\bin\Debug\net10.0\OfficeServiceDesk.Core.pdb
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Application\obj\Debug\net10.0\OfficeServiceDesk.Application.csproj.AssemblyReference.cache
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Application\obj\Debug\net10.0\OfficeServiceDesk.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Application\obj\Debug\net10.0\OfficeServiceDesk.Application.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Application\obj\Debug\net10.0\OfficeServiceDesk.Application.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Application\obj\Debug\net10.0\OfficeServiceDesk.Application.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Application\obj\Debug\net10.0\OfficeServiceDesk.Application.sourcelink.json
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Application\obj\Debug\net10.0\OfficeSe.443F9E8B.Up2Date
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Application\obj\Debug\net10.0\OfficeServiceDesk.Application.dll
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Application\obj\Debug\net10.0\refint\OfficeServiceDesk.Application.dll
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Application\obj\Debug\net10.0\OfficeServiceDesk.Application.pdb
+C:\Users\ACADEMY\source\repos\GW\OfficeServiceDesk.ConsoleApp\OfficeServiceDesk.Application\obj\Debug\net10.0\ref\OfficeServiceDesk.Application.dll
