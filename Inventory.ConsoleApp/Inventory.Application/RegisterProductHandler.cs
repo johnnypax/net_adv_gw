@@ -10,8 +10,11 @@ public sealed class RegisterProductHandler(IProductRepository productRepository)
         string name, 
         int initialQuantity, 
         int minimumStock, 
-        CancellationToken cancellationToken)
+        CancellationToken cancellationToken = default)
     {
+
+        cancellationToken.ThrowIfCancellationRequested();
+
         Product product = Product.Create(name, initialQuantity, minimumStock);
 
         bool exists = await productRepository.ExistsByName(name, cancellationToken);

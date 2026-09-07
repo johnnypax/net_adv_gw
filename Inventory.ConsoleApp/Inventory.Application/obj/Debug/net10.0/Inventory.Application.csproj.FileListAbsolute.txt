@@ -1,0 +1,16 @@
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Application\bin\Debug\net10.0\Inventory.Application.deps.json
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Application\bin\Debug\net10.0\Inventory.Application.dll
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Application\bin\Debug\net10.0\Inventory.Application.pdb
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Application\bin\Debug\net10.0\Inventory.Core.dll
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Application\bin\Debug\net10.0\Inventory.Core.pdb
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Application\obj\Debug\net10.0\Inventory.Application.csproj.AssemblyReference.cache
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Application\obj\Debug\net10.0\Inventory.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Application\obj\Debug\net10.0\Inventory.Application.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Application\obj\Debug\net10.0\Inventory.Application.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Application\obj\Debug\net10.0\Inventory.Application.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Application\obj\Debug\net10.0\Inventory.Application.sourcelink.json
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Application\obj\Debug\net10.0\Inventor.1DAC6D85.Up2Date
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Application\obj\Debug\net10.0\Inventory.Application.dll
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Application\obj\Debug\net10.0\refint\Inventory.Application.dll
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Application\obj\Debug\net10.0\Inventory.Application.pdb
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Application\obj\Debug\net10.0\ref\Inventory.Application.dll

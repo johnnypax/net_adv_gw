@@ -1,0 +1,12 @@
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Core\bin\Debug\net10.0\Inventory.Core.deps.json
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Core\bin\Debug\net10.0\Inventory.Core.dll
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Core\bin\Debug\net10.0\Inventory.Core.pdb
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Core\obj\Debug\net10.0\Inventory.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Core\obj\Debug\net10.0\Inventory.Core.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Core\obj\Debug\net10.0\Inventory.Core.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Core\obj\Debug\net10.0\Inventory.Core.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Core\obj\Debug\net10.0\Inventory.Core.sourcelink.json
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Core\obj\Debug\net10.0\Inventory.Core.dll
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Core\obj\Debug\net10.0\refint\Inventory.Core.dll
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Core\obj\Debug\net10.0\Inventory.Core.pdb
+C:\Users\ACADEMY\source\repos\GW\Inventory.ConsoleApp\Inventory.Core\obj\Debug\net10.0\ref\Inventory.Core.dll

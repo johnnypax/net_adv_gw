@@ -9,8 +9,10 @@ public sealed class RemoveStockHandler(IProductRepository productRepository)
     public async Task<ProductDto> HandleAsync(
         ProductId productId,
         int quantityToRemove,
-        CancellationToken cancellationToken)
+        CancellationToken cancellationToken = default)
     {
+
+        cancellationToken.ThrowIfCancellationRequested();
         Product? product = await productRepository.FindByIdAsync(productId, cancellationToken);
     
         if(product is null)

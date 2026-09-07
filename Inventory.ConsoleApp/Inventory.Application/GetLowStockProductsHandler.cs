@@ -6,8 +6,10 @@ using System.Text;
 namespace Inventory.Application;
 public sealed class GetLowStockProductsHandler(IProductRepository productRepository)
 {
-    public async Task<IReadOnlyCollection<ProductDto>> HandleAsync(CancellationToken cancellationToken)
+    public async Task<IReadOnlyCollection<ProductDto>> HandleAsync(CancellationToken cancellationToken = default)
     {
+        cancellationToken.ThrowIfCancellationRequested();
+
         IReadOnlyCollection<Product> products = 
             await productRepository.GetLowStockProductsAsync(cancellationToken);
 

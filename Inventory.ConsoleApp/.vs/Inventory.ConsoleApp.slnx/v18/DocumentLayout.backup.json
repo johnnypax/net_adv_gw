@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\Inventory.ConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8B76A20-C263-4746-B92F-7C036C0A0173}|Inventory.Application\\Inventory.Application.csproj|c:\\users\\academy\\source\\repos\\gw\\inventory.consoleapp\\inventory.application\\removestockhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8B76A20-C263-4746-B92F-7C036C0A0173}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\removestockhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B438F6A-0BAF-AD9D-5BF8-9D46671153FA}|Inventory.ConsoleApp\\Inventory.ConsoleApp.csproj|c:\\users\\academy\\source\\repos\\gw\\inventory.consoleapp\\inventory.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B438F6A-0BAF-AD9D-5BF8-9D46671153FA}|Inventory.ConsoleApp\\Inventory.ConsoleApp.csproj|solutionrelative:inventory.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8B76A20-C263-4746-B92F-7C036C0A0173}|Inventory.Application\\Inventory.Application.csproj|c:\\users\\academy\\source\\repos\\gw\\inventory.consoleapp\\inventory.application\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8B76A20-C263-4746-B92F-7C036C0A0173}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{015B8F17-8E75-9923-1BA4-D3AC2AEBD199}|Inventory.Core\\Inventory.Core.csproj|c:\\users\\academy\\source\\repos\\gw\\inventory.consoleapp\\inventory.core\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015B8F17-8E75-9923-1BA4-D3AC2AEBD199}|Inventory.Core\\Inventory.Core.csproj|solutionrelative:inventory.core\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8B76A20-C263-4746-B92F-7C036C0A0173}|Inventory.Application\\Inventory.Application.csproj|c:\\users\\academy\\source\\repos\\gw\\inventory.consoleapp\\inventory.application\\registerproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8B76A20-C263-4746-B92F-7C036C0A0173}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\registerproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|c:\\users\\academy\\source\\repos\\gw\\inventory.consoleapp\\inventory.application\\registerproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\registerproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8B76A20-C263-4746-B92F-7C036C0A0173}|Inventory.Application\\Inventory.Application.csproj|c:\\users\\academy\\source\\repos\\gw\\inventory.consoleapp\\inventory.application\\usecaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8B76A20-C263-4746-B92F-7C036C0A0173}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\usecaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|c:\\users\\academy\\source\\repos\\gw\\inventory.consoleapp\\inventory.application\\getlowstockproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\getlowstockproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8B76A20-C263-4746-B92F-7C036C0A0173}|Inventory.Application\\Inventory.Application.csproj|c:\\users\\academy\\source\\repos\\gw\\inventory.consoleapp\\inventory.application\\inventory.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D8B76A20-C263-4746-B92F-7C036C0A0173}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\inventory.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B268ACA1-CF31-BD54-5F2F-DB2DBFF3F310}|Inventory.Infrastructure\\Inventory.Infrastructure.csproj|c:\\users\\academy\\source\\repos\\gw\\inventory.consoleapp\\inventory.infrastructure\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B268ACA1-CF31-BD54-5F2F-DB2DBFF3F310}|Inventory.Infrastructure\\Inventory.Infrastructure.csproj|solutionrelative:inventory.infrastructure\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46BA57A2-8B27-4D79-982B-6EF60ACE131A}|Inventory.ConsoleApp\\Inventory.ConsoleApp.csproj|c:\\users\\academy\\source\\repos\\gw\\inventory.consoleapp\\inventory.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46BA57A2-8B27-4D79-982B-6EF60ACE131A}|Inventory.ConsoleApp\\Inventory.ConsoleApp.csproj|solutionrelative:inventory.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|c:\\users\\academy\\source\\repos\\gw\\inventory.consoleapp\\inventory.application\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|c:\\users\\academy\\source\\repos\\gw\\inventory.consoleapp\\inventory.application\\usecaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\usecaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|c:\\users\\academy\\source\\repos\\gw\\inventory.consoleapp\\inventory.application\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,32 +42,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UseCaseException.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\Inventory.ConsoleApp\\Inventory.Application\\UseCaseException.cs",
-              "RelativeDocumentMoniker": "Inventory.Application\\UseCaseException.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\Inventory.ConsoleApp\\Inventory.Application\\UseCaseException.cs",
-              "RelativeToolTip": "Inventory.Application\\UseCaseException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
+              "Title": "GetLowStockProductsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\Inventory.ConsoleApp\\Inventory.Application\\GetLowStockProductsHandler.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\GetLowStockProductsHandler.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\Inventory.ConsoleApp\\Inventory.Application\\GetLowStockProductsHandler.cs",
+              "RelativeToolTip": "Inventory.Application\\GetLowStockProductsHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T12:45:39.821Z",
+              "WhenOpened": "2026-09-07T12:51:48.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InMemoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\Inventory.ConsoleApp\\Inventory.Infrastructure\\InMemoryRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Infrastructure\\InMemoryRepository.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\Inventory.ConsoleApp\\Inventory.Infrastructure\\InMemoryRepository.cs",
+              "RelativeToolTip": "Inventory.Infrastructure\\InMemoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T13:23:38.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RemoveStockHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\Inventory.ConsoleApp\\Inventory.Application\\RemoveStockHandler.cs",
-              "RelativeDocumentMoniker": "Inventory.Application\\RemoveStockHandler.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\Inventory.ConsoleApp\\Inventory.Application\\RemoveStockHandler.cs",
-              "RelativeToolTip": "Inventory.Application\\RemoveStockHandler.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBYAAAAiAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\Inventory.ConsoleApp\\Inventory.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Inventory.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\Inventory.ConsoleApp\\Inventory.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "Inventory.ConsoleApp\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwCcAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T12:42:30.646Z",
+              "WhenOpened": "2026-09-07T12:05:13.709Z",
               "EditorCaption": ""
             },
             {
@@ -70,48 +91,61 @@
               "RelativeDocumentMoniker": "Inventory.Application\\RegisterProductHandler.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\Inventory.ConsoleApp\\Inventory.Application\\RegisterProductHandler.cs",
               "RelativeToolTip": "Inventory.Application\\RegisterProductHandler.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T12:28:56.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Inventory.Application",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\Inventory.ConsoleApp\\Inventory.Application\\Inventory.Application.csproj",
-              "RelativeDocumentMoniker": "Inventory.Application\\Inventory.Application.csproj",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\Inventory.ConsoleApp\\Inventory.Application\\Inventory.Application.csproj",
-              "RelativeToolTip": "Inventory.Application\\Inventory.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-07T12:24:43.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\Inventory.ConsoleApp\\Inventory.Application\\IProductRepository.cs",
               "RelativeDocumentMoniker": "Inventory.Application\\IProductRepository.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\Inventory.ConsoleApp\\Inventory.Application\\IProductRepository.cs",
               "RelativeToolTip": "Inventory.Application\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T12:23:04.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\Inventory.ConsoleApp\\Inventory.ConsoleApp\\Program.cs",
-              "RelativeDocumentMoniker": "Inventory.ConsoleApp\\Program.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\Inventory.ConsoleApp\\Inventory.ConsoleApp\\Program.cs",
-              "RelativeToolTip": "Inventory.ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\Inventory.ConsoleApp\\Inventory.Core\\Product.cs",
+              "RelativeDocumentMoniker": "Inventory.Core\\Product.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\Inventory.ConsoleApp\\Inventory.Core\\Product.cs",
+              "RelativeToolTip": "Inventory.Core\\Product.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T12:05:13.709Z",
+              "WhenOpened": "2026-09-07T13:29:42.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UseCaseException.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\Inventory.ConsoleApp\\Inventory.Application\\UseCaseException.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\UseCaseException.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\Inventory.ConsoleApp\\Inventory.Application\\UseCaseException.cs",
+              "RelativeToolTip": "Inventory.Application\\UseCaseException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T12:45:39.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\Inventory.ConsoleApp\\Inventory.Application\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\Inventory.ConsoleApp\\Inventory.Application\\ProductDto.cs",
+              "RelativeToolTip": "Inventory.Application\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T13:25:04.292Z",
               "EditorCaption": ""
             }
           ]

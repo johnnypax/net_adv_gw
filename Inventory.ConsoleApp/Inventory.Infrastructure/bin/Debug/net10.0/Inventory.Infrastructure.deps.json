@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Inventory.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Inventory.Application": "1.0.0"
+        },
+        "runtime": {
+          "Inventory.Infrastructure.dll": {}
+        }
+      },
+      "Inventory.Application/1.0.0": {
+        "dependencies": {
+          "Inventory.Core": "1.0.0"
+        },
+        "runtime": {
+          "Inventory.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Inventory.Core/1.0.0": {
+        "runtime": {
+          "Inventory.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inventory.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Inventory.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Inventory.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
