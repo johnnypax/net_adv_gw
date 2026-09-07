@@ -62,8 +62,7 @@
               "RelativeToolTip": "OfficeServiceDesk.Infrastructure\\InMemoryTicketRepository.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T09:13:05.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T09:13:05.154Z"
             },
             {
               "$type": "Document",
@@ -73,7 +72,7 @@
               "RelativeDocumentMoniker": "OfficeServiceDesk.ConsoleApp\\Program.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.ConsoleApp\\Program.cs",
               "RelativeToolTip": "OfficeServiceDesk.ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T08:59:06.613Z",
               "EditorCaption": ""
@@ -86,7 +85,7 @@
               "RelativeDocumentMoniker": "OfficeServiceDesk.Application\\TicketOpen.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.Application\\TicketOpen.cs",
               "RelativeToolTip": "OfficeServiceDesk.Application\\TicketOpen.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA9wCMAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAtwB4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T08:33:08.257Z",
               "EditorCaption": ""
@@ -101,8 +100,7 @@
               "RelativeToolTip": "OfficeServiceDesk.Core\\Ticket.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAcwCYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T07:53:45.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T07:53:45.732Z"
             },
             {
               "$type": "Document",

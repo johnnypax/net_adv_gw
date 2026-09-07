@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfficeServiceDesk.ConsoleApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{65AAEEF8-C7DD-7642-B247-841AD3CB72B4}|OfficeServiceDesk.Core\\OfficeServiceDesk.Core.csproj|c:\\users\\academy\\source\\repos\\gw\\officeservicedesk.consoleapp\\officeservicedesk.core\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AAEEF8-C7DD-7642-B247-841AD3CB72B4}|OfficeServiceDesk.Core\\OfficeServiceDesk.Core.csproj|solutionrelative:officeservicedesk.core\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2DF1E5CD-1692-2BFB-BE92-3DF4030D9F50}|OfficeServiceDesk.Application\\OfficeServiceDesk.Application.csproj|c:\\users\\academy\\source\\repos\\gw\\officeservicedesk.consoleapp\\officeservicedesk.application\\ticketopen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DF1E5CD-1692-2BFB-BE92-3DF4030D9F50}|OfficeServiceDesk.Application\\OfficeServiceDesk.Application.csproj|solutionrelative:officeservicedesk.application\\ticketopen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F9FEEA15-EA72-EE7C-C247-9FE534F08C1D}|OfficeServiceDesk.Infrastructure\\OfficeServiceDesk.Infrastructure.csproj|c:\\users\\academy\\source\\repos\\gw\\officeservicedesk.consoleapp\\officeservicedesk.infrastructure\\inmemoryticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9FEEA15-EA72-EE7C-C247-9FE534F08C1D}|OfficeServiceDesk.Infrastructure\\OfficeServiceDesk.Infrastructure.csproj|solutionrelative:officeservicedesk.infrastructure\\inmemoryticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AAEEF8-C7DD-7642-B247-841AD3CB72B4}|OfficeServiceDesk.Core\\OfficeServiceDesk.Core.csproj|c:\\users\\academy\\source\\repos\\gw\\officeservicedesk.consoleapp\\officeservicedesk.core\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AAEEF8-C7DD-7642-B247-841AD3CB72B4}|OfficeServiceDesk.Core\\OfficeServiceDesk.Core.csproj|solutionrelative:officeservicedesk.core\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9FEEA15-EA72-EE7C-C247-9FE534F08C1D}|OfficeServiceDesk.Infrastructure\\OfficeServiceDesk.Infrastructure.csproj|c:\\users\\academy\\source\\repos\\gw\\officeservicedesk.consoleapp\\officeservicedesk.infrastructure\\officeservicedesk.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "InMemoryTicketRepository.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.Infrastructure\\InMemoryTicketRepository.cs",
               "RelativeDocumentMoniker": "OfficeServiceDesk.Infrastructure\\InMemoryTicketRepository.cs",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "OfficeServiceDesk.ConsoleApp\\Program.cs",
@@ -74,33 +74,33 @@
               "RelativeToolTip": "OfficeServiceDesk.ConsoleApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T08:59:06.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T08:59:06.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TicketOpen.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.Application\\TicketOpen.cs",
               "RelativeDocumentMoniker": "OfficeServiceDesk.Application\\TicketOpen.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.Application\\TicketOpen.cs",
               "RelativeToolTip": "OfficeServiceDesk.Application\\TicketOpen.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAtwB4AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAIA9wB4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T08:33:08.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Ticket.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.Core\\Ticket.cs",
               "RelativeDocumentMoniker": "OfficeServiceDesk.Core\\Ticket.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.Core\\Ticket.cs",
               "RelativeToolTip": "OfficeServiceDesk.Core\\Ticket.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAcwCYAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwCIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T07:53:45.732Z"
+              "WhenOpened": "2026-09-07T07:53:45.732Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
