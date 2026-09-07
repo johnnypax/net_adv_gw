@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez15_cancellation_token\bin\Debug\net10.0\lez15_cancellation_token.exe
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez15_cancellation_token\bin\Debug\net10.0\lez15_cancellation_token.deps.json
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez15_cancellation_token\bin\Debug\net10.0\lez15_cancellation_token.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez15_cancellation_token\bin\Debug\net10.0\lez15_cancellation_token.dll
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez15_cancellation_token\bin\Debug\net10.0\lez15_cancellation_token.pdb
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez15_cancellation_token\obj\Debug\net10.0\lez15_cancellation_token.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez15_cancellation_token\obj\Debug\net10.0\lez15_cancellation_token.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez15_cancellation_token\obj\Debug\net10.0\lez15_cancellation_token.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez15_cancellation_token\obj\Debug\net10.0\lez15_cancellation_token.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez15_cancellation_token\obj\Debug\net10.0\lez15_cancellation_token.sourcelink.json
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez15_cancellation_token\obj\Debug\net10.0\lez15_cancellation_token.dll
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez15_cancellation_token\obj\Debug\net10.0\refint\lez15_cancellation_token.dll
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez15_cancellation_token\obj\Debug\net10.0\lez15_cancellation_token.pdb
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez15_cancellation_token\obj\Debug\net10.0\lez15_cancellation_token.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\GW\riallineamento\lez15_cancellation_token\obj\Debug\net10.0\ref\lez15_cancellation_token.dll

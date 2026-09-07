@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lez12_linq_intro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84ce50b7e633292f37de28ed63424e26107c53a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bab019d6b2364aceeb0c90962473475f7c6a6dac")]
 [assembly: System.Reflection.AssemblyProductAttribute("lez12_linq_intro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lez12_linq_intro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

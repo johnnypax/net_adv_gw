@@ -44,4 +44,7 @@
   <Project Path="lez14_asincrone/lez14_asincrone.csproj" Id="e106de11-0b0d-4bc8-bab2-f02074acddce">
     <BuildType Solution="Json|*" Project="Debug" />
   </Project>
+  <Project Path="lez15_cancellation_token/lez15_cancellation_token.csproj" Id="32622dc9-ae19-411a-b2de-a979bceb4c98">
+    <BuildType Solution="Json|*" Project="Debug" />
+  </Project>
 </Solution>

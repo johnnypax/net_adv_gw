@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{32622DC9-AE19-411A-B2DE-A979BCEB4C98}|lez15_cancellation_token\\lez15_cancellation_token.csproj|c:\\users\\academy\\source\\repos\\gw\\riallineamento\\lez15_cancellation_token\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32622DC9-AE19-411A-B2DE-A979BCEB4C98}|lez15_cancellation_token\\lez15_cancellation_token.csproj|solutionrelative:lez15_cancellation_token\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E106DE11-0B0D-4BC8-BAB2-F02074ACDDCE}|lez14_asincrone\\lez14_asincrone.csproj|c:\\users\\academy\\source\\repos\\gw\\riallineamento\\lez14_asincrone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E106DE11-0B0D-4BC8-BAB2-F02074ACDDCE}|lez14_asincrone\\lez14_asincrone.csproj|solutionrelative:lez14_asincrone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E106DE11-0B0D-4BC8-BAB2-F02074ACDDCE}|lez14_asincrone\\lez14_asincrone.csproj|c:\\users\\academy\\source\\repos\\gw\\riallineamento\\lez14_asincrone\\lez14_asincrone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E106DE11-0B0D-4BC8-BAB2-F02074ACDDCE}|lez14_asincrone\\lez14_asincrone.csproj|solutionrelative:lez14_asincrone\\lez14_asincrone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez14_asincrone\\Program.cs",
               "RelativeDocumentMoniker": "lez14_asincrone\\Program.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez14_asincrone\\Program.cs",
               "RelativeToolTip": "lez14_asincrone\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAcAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T11:12:22.59Z",
+              "WhenOpened": "2026-09-07T13:40:49.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lez14_asincrone",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez14_asincrone\\lez14_asincrone.csproj",
+              "RelativeDocumentMoniker": "lez14_asincrone\\lez14_asincrone.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez14_asincrone\\lez14_asincrone.csproj",
+              "RelativeToolTip": "lez14_asincrone\\lez14_asincrone.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-07T13:40:47.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez15_cancellation_token\\Program.cs",
+              "RelativeDocumentMoniker": "lez15_cancellation_token\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\riallineamento\\lez15_cancellation_token\\Program.cs",
+              "RelativeToolTip": "lez15_cancellation_token\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T13:40:08.758Z",
               "EditorCaption": ""
             }
           ]
