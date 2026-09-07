@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "operazioni_file/1.0.0": {
+        "runtime": {
+          "operazioni_file.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "operazioni_file/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
