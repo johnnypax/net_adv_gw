@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfficeServiceDesk.ConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2A4D074-CF6E-4BA7-8BDC-F291D3408731}|OfficeServiceDesk.Infrastructure\\OfficeServiceDesk.Infrastructure.csproj|c:\\users\\academy\\source\\repos\\gw\\officeservicedesk.consoleapp\\officeservicedesk.infrastructure\\inmemoryticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2A4D074-CF6E-4BA7-8BDC-F291D3408731}|OfficeServiceDesk.Infrastructure\\OfficeServiceDesk.Infrastructure.csproj|solutionrelative:officeservicedesk.infrastructure\\inmemoryticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2DF1E5CD-1692-2BFB-BE92-3DF4030D9F50}|OfficeServiceDesk.Application\\OfficeServiceDesk.Application.csproj|c:\\users\\academy\\source\\repos\\gw\\officeservicedesk.consoleapp\\officeservicedesk.application\\ticketopen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF1E5CD-1692-2BFB-BE92-3DF4030D9F50}|OfficeServiceDesk.Application\\OfficeServiceDesk.Application.csproj|solutionrelative:officeservicedesk.application\\ticketopen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FBC65BA-DD99-40D4-967B-7C432291C01D}|OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.ConsoleApp.csproj|c:\\users\\academy\\source\\repos\\gw\\officeservicedesk.consoleapp\\officeservicedesk.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FBC65BA-DD99-40D4-967B-7C432291C01D}|OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.ConsoleApp.csproj|solutionrelative:officeservicedesk.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E216E5E-00CD-7756-9268-D5D8AFE6EB8E}|OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.ConsoleApp.csproj|c:\\users\\academy\\source\\repos\\gw\\officeservicedesk.consoleapp\\officeservicedesk.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E216E5E-00CD-7756-9268-D5D8AFE6EB8E}|OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.ConsoleApp.csproj|solutionrelative:officeservicedesk.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9566BCC3-4257-4C42-85FD-0C07858E4FBF}|OfficeServiceDesk.Core\\OfficeServiceDesk.Core.csproj|c:\\users\\academy\\source\\repos\\gw\\officeservicedesk.consoleapp\\officeservicedesk.core\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9566BCC3-4257-4C42-85FD-0C07858E4FBF}|OfficeServiceDesk.Core\\OfficeServiceDesk.Core.csproj|solutionrelative:officeservicedesk.core\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9FEEA15-EA72-EE7C-C247-9FE534F08C1D}|OfficeServiceDesk.Infrastructure\\OfficeServiceDesk.Infrastructure.csproj|c:\\users\\academy\\source\\repos\\gw\\officeservicedesk.consoleapp\\officeservicedesk.infrastructure\\inmemoryticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9FEEA15-EA72-EE7C-C247-9FE534F08C1D}|OfficeServiceDesk.Infrastructure\\OfficeServiceDesk.Infrastructure.csproj|solutionrelative:officeservicedesk.infrastructure\\inmemoryticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4AD0A31-F98C-4688-8A64-1ACEE7696690}|OfficeServiceDesk.Application\\OfficeServiceDesk.Application.csproj|c:\\users\\academy\\source\\repos\\gw\\officeservicedesk.consoleapp\\officeservicedesk.application\\ticketopen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4AD0A31-F98C-4688-8A64-1ACEE7696690}|OfficeServiceDesk.Application\\OfficeServiceDesk.Application.csproj|solutionrelative:officeservicedesk.application\\ticketopen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65AAEEF8-C7DD-7642-B247-841AD3CB72B4}|OfficeServiceDesk.Core\\OfficeServiceDesk.Core.csproj|c:\\users\\academy\\source\\repos\\gw\\officeservicedesk.consoleapp\\officeservicedesk.core\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AAEEF8-C7DD-7642-B247-841AD3CB72B4}|OfficeServiceDesk.Core\\OfficeServiceDesk.Core.csproj|solutionrelative:officeservicedesk.core\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2A4D074-CF6E-4BA7-8BDC-F291D3408731}|OfficeServiceDesk.Infrastructure\\OfficeServiceDesk.Infrastructure.csproj|c:\\users\\academy\\source\\repos\\gw\\officeservicedesk.consoleapp\\officeservicedesk.infrastructure\\officeservicedesk.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F2A4D074-CF6E-4BA7-8BDC-F291D3408731}|OfficeServiceDesk.Infrastructure\\OfficeServiceDesk.Infrastructure.csproj|solutionrelative:officeservicedesk.infrastructure\\officeservicedesk.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F9FEEA15-EA72-EE7C-C247-9FE534F08C1D}|OfficeServiceDesk.Infrastructure\\OfficeServiceDesk.Infrastructure.csproj|c:\\users\\academy\\source\\repos\\gw\\officeservicedesk.consoleapp\\officeservicedesk.infrastructure\\officeservicedesk.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9FEEA15-EA72-EE7C-C247-9FE534F08C1D}|OfficeServiceDesk.Infrastructure\\OfficeServiceDesk.Infrastructure.csproj|solutionrelative:officeservicedesk.infrastructure\\officeservicedesk.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4AD0A31-F98C-4688-8A64-1ACEE7696690}|OfficeServiceDesk.Application\\OfficeServiceDesk.Application.csproj|c:\\users\\academy\\source\\repos\\gw\\officeservicedesk.consoleapp\\officeservicedesk.application\\officeservicedesk.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B4AD0A31-F98C-4688-8A64-1ACEE7696690}|OfficeServiceDesk.Application\\OfficeServiceDesk.Application.csproj|solutionrelative:officeservicedesk.application\\officeservicedesk.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2DF1E5CD-1692-2BFB-BE92-3DF4030D9F50}|OfficeServiceDesk.Application\\OfficeServiceDesk.Application.csproj|c:\\users\\academy\\source\\repos\\gw\\officeservicedesk.consoleapp\\officeservicedesk.application\\officeservicedesk.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2DF1E5CD-1692-2BFB-BE92-3DF4030D9F50}|OfficeServiceDesk.Application\\OfficeServiceDesk.Application.csproj|solutionrelative:officeservicedesk.application\\officeservicedesk.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FBC65BA-DD99-40D4-967B-7C432291C01D}|OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.ConsoleApp.csproj|c:\\users\\academy\\source\\repos\\gw\\officeservicedesk.consoleapp\\officeservicedesk.consoleapp\\officeservicedesk.consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4FBC65BA-DD99-40D4-967B-7C432291C01D}|OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.ConsoleApp.csproj|solutionrelative:officeservicedesk.consoleapp\\officeservicedesk.consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2E216E5E-00CD-7756-9268-D5D8AFE6EB8E}|OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.ConsoleApp.csproj|c:\\users\\academy\\source\\repos\\gw\\officeservicedesk.consoleapp\\officeservicedesk.consoleapp\\officeservicedesk.consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E216E5E-00CD-7756-9268-D5D8AFE6EB8E}|OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.ConsoleApp.csproj|solutionrelative:officeservicedesk.consoleapp\\officeservicedesk.consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,30 +38,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "OfficeServiceDesk.Infrastructure",
+              "Title": "OfficeServiceDesk.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.Infrastructure\\OfficeServiceDesk.Infrastructure.csproj",
               "RelativeDocumentMoniker": "OfficeServiceDesk.Infrastructure\\OfficeServiceDesk.Infrastructure.csproj",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.Infrastructure\\OfficeServiceDesk.Infrastructure.csproj",
               "RelativeToolTip": "OfficeServiceDesk.Infrastructure\\OfficeServiceDesk.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-07T09:12:52.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T09:12:52.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "InMemoryTicketRepository.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.Infrastructure\\InMemoryTicketRepository.cs",
               "RelativeDocumentMoniker": "OfficeServiceDesk.Infrastructure\\InMemoryTicketRepository.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.Infrastructure\\InMemoryTicketRepository.cs",
               "RelativeToolTip": "OfficeServiceDesk.Infrastructure\\InMemoryTicketRepository.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T09:13:05.154Z",
               "EditorCaption": ""
@@ -74,27 +73,27 @@
               "RelativeDocumentMoniker": "OfficeServiceDesk.ConsoleApp\\Program.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.ConsoleApp\\Program.cs",
               "RelativeToolTip": "OfficeServiceDesk.ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T08:59:06.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "TicketOpen.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.Application\\TicketOpen.cs",
               "RelativeDocumentMoniker": "OfficeServiceDesk.Application\\TicketOpen.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.Application\\TicketOpen.cs",
               "RelativeToolTip": "OfficeServiceDesk.Application\\TicketOpen.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCIAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wCMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T08:33:08.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Ticket.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.Core\\Ticket.cs",
               "RelativeDocumentMoniker": "OfficeServiceDesk.Core\\Ticket.cs",
@@ -108,28 +107,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "OfficeServiceDesk.Application",
+              "Title": "OfficeServiceDesk.Application.csproj",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.Application\\OfficeServiceDesk.Application.csproj",
               "RelativeDocumentMoniker": "OfficeServiceDesk.Application\\OfficeServiceDesk.Application.csproj",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.Application\\OfficeServiceDesk.Application.csproj",
               "RelativeToolTip": "OfficeServiceDesk.Application\\OfficeServiceDesk.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-07T07:33:02.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T07:33:02.808Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "OfficeServiceDesk.ConsoleApp",
+              "Title": "OfficeServiceDesk.ConsoleApp.csproj",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.ConsoleApp.csproj",
               "RelativeDocumentMoniker": "OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.ConsoleApp.csproj",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.ConsoleApp.csproj",
               "RelativeToolTip": "OfficeServiceDesk.ConsoleApp\\OfficeServiceDesk.ConsoleApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-07T07:31:40.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T07:31:40.459Z"
             }
           ]
         }

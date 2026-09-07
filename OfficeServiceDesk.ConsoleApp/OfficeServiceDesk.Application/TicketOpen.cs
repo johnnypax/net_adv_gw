@@ -8,15 +8,17 @@ public sealed record OpenTicketCommand(string? Title, string Priority);
 
 public sealed record TicketDto(Guid id, string title, string priority);
 
+//Contratto per Infrastructure!
 public interface ITicketRepository
 {
     Task AddAsync(Ticket ticket, CancellationToken cancellationToken);
     Task<bool> ExistsWithTitleAsync(string title, CancellationToken cancellationToken);
+    Task<bool> DeleteAsync(Guid ticketId, CancellationToken cancellationToken);
 }
 
 public sealed class OpenTicketHandler(ITicketRepository repository)
 {
-    public async Task<TicketDto> HandleAsync(
+    public async Task<TicketDto> HandleAddAsync(
         OpenTicketCommand command, CancellationToken cancellationToken = default)
     {
         string title = NormalizeTicket(command!.Title);
@@ -26,6 +28,12 @@ public sealed class OpenTicketHandler(ITicketRepository repository)
         await repository.AddAsync(ticket, cancellationToken);
 
         return new TicketDto(ticket.Id.Value, ticket.Title, ticket.Priority.ToString());
+    }
+
+    public async Task<bool> HandleDeleteAsync(Guid ticketId, CancellationToken cancellationToken = default)
+    {
+        bool deleted = await repository.DeleteAsync(ticketId, cancellationToken);
+        return deleted;
     }
 
     private static string NormalizeTicket(string? title)

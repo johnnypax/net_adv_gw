@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OfficeServiceDesk.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb235abf2237c62696bdc3890ae5f6609dfb70c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc483d1d448f0ed42d79ebc4f1a2054ee1bbcc83")]
 [assembly: System.Reflection.AssemblyProductAttribute("OfficeServiceDesk.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OfficeServiceDesk.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

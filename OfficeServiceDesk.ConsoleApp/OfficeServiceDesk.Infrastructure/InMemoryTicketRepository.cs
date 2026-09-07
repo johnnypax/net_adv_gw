@@ -26,5 +26,21 @@ namespace OfficeServiceDesk.Infrastructure
 
             return Task.FromResult(exists);
         }
+
+        public Task<bool> DeleteAsync(Guid ticketId, CancellationToken cancellationToken)
+        {
+            cancellationToken.ThrowIfCancellationRequested();
+
+            Ticket? ticket = _tickets.FirstOrDefault(t => t.Id.Value == ticketId);
+
+            if(ticket is null)
+            {
+               return Task.FromResult(false);
+            }
+
+            _tickets.Remove(ticket);
+
+            return Task.FromResult(true);
+        }
     }
 }
