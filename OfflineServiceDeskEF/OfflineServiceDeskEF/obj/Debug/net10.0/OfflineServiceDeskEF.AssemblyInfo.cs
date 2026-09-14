@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OfflineServiceDeskEF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34b69ebf44efbf1a877ed9ddc06cff6bb8a77f87")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ed67d61b4f0227cc0c0541aeffaf175858c4e96")]
 [assembly: System.Reflection.AssemblyProductAttribute("OfflineServiceDeskEF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OfflineServiceDeskEF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

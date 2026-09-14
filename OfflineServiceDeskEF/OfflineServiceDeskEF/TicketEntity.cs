@@ -11,6 +11,7 @@ public sealed class TicketEntity
     public string Title { get; set; } = string.Empty;
     public string Priority { get; set; } = "normal";
     public string Status { get; set; } = "open";
+    public string Operator { get; set; } = "Giovanni";
     public DateTimeOffset CreatedAt { get; set; }
     public List<NoteEntity> Notes { get; set; } = [];
 }
