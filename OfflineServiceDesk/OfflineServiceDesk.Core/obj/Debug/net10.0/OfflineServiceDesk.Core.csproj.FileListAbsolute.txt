@@ -1,0 +1,13 @@
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Core\bin\Debug\net10.0\OfflineServiceDesk.Core.deps.json
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Core\bin\Debug\net10.0\OfflineServiceDesk.Core.dll
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Core\bin\Debug\net10.0\OfflineServiceDesk.Core.pdb
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Core\obj\Debug\net10.0\OfflineServiceDesk.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Core\obj\Debug\net10.0\OfflineServiceDesk.Core.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Core\obj\Debug\net10.0\OfflineServiceDesk.Core.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Core\obj\Debug\net10.0\OfflineServiceDesk.Core.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Core\obj\Debug\net10.0\OfflineServiceDesk.Core.sourcelink.json
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Core\obj\Debug\net10.0\OfflineServiceDesk.Core.dll
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Core\obj\Debug\net10.0\refint\OfflineServiceDesk.Core.dll
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Core\obj\Debug\net10.0\OfflineServiceDesk.Core.pdb
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Core\obj\Debug\net10.0\ref\OfflineServiceDesk.Core.dll
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Core\obj\Debug\net10.0\OfflineS.E270D79D.Up2Date

@@ -1,0 +1,16 @@
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Application\bin\Debug\net10.0\OfflineServiceDesk.Application.deps.json
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Application\bin\Debug\net10.0\OfflineServiceDesk.Application.dll
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Application\bin\Debug\net10.0\OfflineServiceDesk.Application.pdb
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Application\bin\Debug\net10.0\OfflineServiceDesk.Core.dll
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Application\bin\Debug\net10.0\OfflineServiceDesk.Core.pdb
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Application\obj\Debug\net10.0\OfflineServiceDesk.Application.csproj.AssemblyReference.cache
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Application\obj\Debug\net10.0\OfflineServiceDesk.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Application\obj\Debug\net10.0\OfflineServiceDesk.Application.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Application\obj\Debug\net10.0\OfflineServiceDesk.Application.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Application\obj\Debug\net10.0\OfflineServiceDesk.Application.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Application\obj\Debug\net10.0\OfflineServiceDesk.Application.sourcelink.json
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Application\obj\Debug\net10.0\OfflineS.E0132ED6.Up2Date
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Application\obj\Debug\net10.0\OfflineServiceDesk.Application.dll
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Application\obj\Debug\net10.0\refint\OfflineServiceDesk.Application.dll
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Application\obj\Debug\net10.0\OfflineServiceDesk.Application.pdb
+C:\Users\ACADEMY\source\repos\GW\OfflineServiceDesk\OfflineServiceDesk.Application\obj\Debug\net10.0\ref\OfflineServiceDesk.Application.dll

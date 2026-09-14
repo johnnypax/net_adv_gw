@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{900EF70B-0FDE-459D-80AC-18183AF88D55}|OfflineServiceDesk.Desktop\\OfflineServiceDesk.Desktop.csproj|c:\\users\\academy\\source\\repos\\gw\\offlineservicedesk\\offlineservicedesk.desktop\\offlineservicedesk.desktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{900EF70B-0FDE-459D-80AC-18183AF88D55}|OfflineServiceDesk.Desktop\\OfflineServiceDesk.Desktop.csproj|solutionrelative:offlineservicedesk.desktop\\offlineservicedesk.desktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900EF70B-0FDE-459D-80AC-18183AF88D55}|OfflineServiceDesk.Desktop\\OfflineServiceDesk.Desktop.csproj|c:\\users\\academy\\source\\repos\\gw\\offlineservicedesk\\offlineservicedesk.desktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900EF70B-0FDE-459D-80AC-18183AF88D55}|OfflineServiceDesk.Desktop\\OfflineServiceDesk.Desktop.csproj|solutionrelative:offlineservicedesk.desktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900EF70B-0FDE-459D-80AC-18183AF88D55}|OfflineServiceDesk.Desktop\\OfflineServiceDesk.Desktop.csproj|c:\\users\\academy\\source\\repos\\gw\\offlineservicedesk\\offlineservicedesk.desktop\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900EF70B-0FDE-459D-80AC-18183AF88D55}|OfflineServiceDesk.Desktop\\OfflineServiceDesk.Desktop.csproj|solutionrelative:offlineservicedesk.desktop\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900EF70B-0FDE-459D-80AC-18183AF88D55}|OfflineServiceDesk.Desktop\\OfflineServiceDesk.Desktop.csproj|c:\\users\\academy\\source\\repos\\gw\\offlineservicedesk\\offlineservicedesk.desktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{900EF70B-0FDE-459D-80AC-18183AF88D55}|OfflineServiceDesk.Desktop\\OfflineServiceDesk.Desktop.csproj|solutionrelative:offlineservicedesk.desktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900EF70B-0FDE-459D-80AC-18183AF88D55}|OfflineServiceDesk.Desktop\\OfflineServiceDesk.Desktop.csproj|c:\\users\\academy\\source\\repos\\gw\\offlineservicedesk\\offlineservicedesk.desktop\\asyncrelaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900EF70B-0FDE-459D-80AC-18183AF88D55}|OfflineServiceDesk.Desktop\\OfflineServiceDesk.Desktop.csproj|solutionrelative:offlineservicedesk.desktop\\asyncrelaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900EF70B-0FDE-459D-80AC-18183AF88D55}|OfflineServiceDesk.Desktop\\OfflineServiceDesk.Desktop.csproj|c:\\users\\academy\\source\\repos\\gw\\offlineservicedesk\\offlineservicedesk.desktop\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900EF70B-0FDE-459D-80AC-18183AF88D55}|OfflineServiceDesk.Desktop\\OfflineServiceDesk.Desktop.csproj|solutionrelative:offlineservicedesk.desktop\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900EF70B-0FDE-459D-80AC-18183AF88D55}|OfflineServiceDesk.Desktop\\OfflineServiceDesk.Desktop.csproj|c:\\users\\academy\\source\\repos\\gw\\offlineservicedesk\\offlineservicedesk.desktop\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900EF70B-0FDE-459D-80AC-18183AF88D55}|OfflineServiceDesk.Desktop\\OfflineServiceDesk.Desktop.csproj|solutionrelative:offlineservicedesk.desktop\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900EF70B-0FDE-459D-80AC-18183AF88D55}|OfflineServiceDesk.Desktop\\OfflineServiceDesk.Desktop.csproj|c:\\users\\academy\\source\\repos\\gw\\offlineservicedesk\\offlineservicedesk.desktop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{900EF70B-0FDE-459D-80AC-18183AF88D55}|OfflineServiceDesk.Desktop\\OfflineServiceDesk.Desktop.csproj|solutionrelative:offlineservicedesk.desktop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37C8077-EB2B-493A-9E78-3E8BD502C177}|OfflineServiceDesk.Infrastructure\\OfflineServiceDesk.Infrastructure.csproj|c:\\users\\academy\\source\\repos\\gw\\offlineservicedesk\\offlineservicedesk.infrastructure\\inmemoryticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37C8077-EB2B-493A-9E78-3E8BD502C177}|OfflineServiceDesk.Infrastructure\\OfflineServiceDesk.Infrastructure.csproj|solutionrelative:offlineservicedesk.infrastructure\\inmemoryticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37C8077-EB2B-493A-9E78-3E8BD502C177}|OfflineServiceDesk.Infrastructure\\OfflineServiceDesk.Infrastructure.csproj|c:\\users\\academy\\source\\repos\\gw\\offlineservicedesk\\offlineservicedesk.infrastructure\\offlineservicedesk.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C37C8077-EB2B-493A-9E78-3E8BD502C177}|OfflineServiceDesk.Infrastructure\\OfflineServiceDesk.Infrastructure.csproj|solutionrelative:offlineservicedesk.infrastructure\\offlineservicedesk.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320DB505-2BCA-4EBE-9F16-6B44EFD78093}|OfflineServiceDesk.Application\\OfflineServiceDesk.Application.csproj|c:\\users\\academy\\source\\repos\\gw\\offlineservicedesk\\offlineservicedesk.application\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320DB505-2BCA-4EBE-9F16-6B44EFD78093}|OfflineServiceDesk.Application\\OfflineServiceDesk.Application.csproj|solutionrelative:offlineservicedesk.application\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320DB505-2BCA-4EBE-9F16-6B44EFD78093}|OfflineServiceDesk.Application\\OfflineServiceDesk.Application.csproj|c:\\users\\academy\\source\\repos\\gw\\offlineservicedesk\\offlineservicedesk.application\\offlineservicedesk.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{320DB505-2BCA-4EBE-9F16-6B44EFD78093}|OfflineServiceDesk.Application\\OfflineServiceDesk.Application.csproj|solutionrelative:offlineservicedesk.application\\offlineservicedesk.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227B8A97-A528-4662-9397-39BA8EF3C3E7}|OfflineServiceDesk.Core\\OfflineServiceDesk.Core.csproj|c:\\users\\academy\\source\\repos\\gw\\offlineservicedesk\\offlineservicedesk.core\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227B8A97-A528-4662-9397-39BA8EF3C3E7}|OfflineServiceDesk.Core\\OfflineServiceDesk.Core.csproj|solutionrelative:offlineservicedesk.core\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227B8A97-A528-4662-9397-39BA8EF3C3E7}|OfflineServiceDesk.Core\\OfflineServiceDesk.Core.csproj|c:\\users\\academy\\source\\repos\\gw\\offlineservicedesk\\offlineservicedesk.core\\offlineservicedesk.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{227B8A97-A528-4662-9397-39BA8EF3C3E7}|OfflineServiceDesk.Core\\OfflineServiceDesk.Core.csproj|solutionrelative:offlineservicedesk.core\\offlineservicedesk.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OfflineServiceDesk.Desktop",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Desktop\\OfflineServiceDesk.Desktop.csproj",
+              "RelativeDocumentMoniker": "OfflineServiceDesk.Desktop\\OfflineServiceDesk.Desktop.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Desktop\\OfflineServiceDesk.Desktop.csproj",
+              "RelativeToolTip": "OfflineServiceDesk.Desktop\\OfflineServiceDesk.Desktop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-12T14:45:50.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Desktop\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "OfflineServiceDesk.Desktop\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Desktop\\MainViewModel.cs",
+              "RelativeToolTip": "OfflineServiceDesk.Desktop\\MainViewModel.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAowLkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T14:45:05.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AsyncRelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Desktop\\AsyncRelayCommand.cs",
+              "RelativeDocumentMoniker": "OfflineServiceDesk.Desktop\\AsyncRelayCommand.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Desktop\\AsyncRelayCommand.cs",
+              "RelativeToolTip": "OfflineServiceDesk.Desktop\\AsyncRelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T14:44:46.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Desktop\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "OfflineServiceDesk.Desktop\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Desktop\\AssemblyInfo.cs",
+              "RelativeToolTip": "OfflineServiceDesk.Desktop\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T14:44:33.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Desktop\\App.xaml.cs",
+              "RelativeDocumentMoniker": "OfflineServiceDesk.Desktop\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Desktop\\App.xaml.cs",
+              "RelativeToolTip": "OfflineServiceDesk.Desktop\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T14:44:20.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Desktop\\App.xaml",
+              "RelativeDocumentMoniker": "OfflineServiceDesk.Desktop\\App.xaml",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Desktop\\App.xaml",
+              "RelativeToolTip": "OfflineServiceDesk.Desktop\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-12T14:44:05.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Desktop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "OfflineServiceDesk.Desktop\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Desktop\\MainWindow.xaml",
+              "RelativeToolTip": "OfflineServiceDesk.Desktop\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-12T14:40:06.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Desktop\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OfflineServiceDesk.Desktop\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Desktop\\MainWindow.xaml.cs",
+              "RelativeToolTip": "OfflineServiceDesk.Desktop\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T14:40:02.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InMemoryTicketService.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Infrastructure\\InMemoryTicketService.cs",
+              "RelativeDocumentMoniker": "OfflineServiceDesk.Infrastructure\\InMemoryTicketService.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Infrastructure\\InMemoryTicketService.cs",
+              "RelativeToolTip": "OfflineServiceDesk.Infrastructure\\InMemoryTicketService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T14:43:10.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OfflineServiceDesk.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Infrastructure\\OfflineServiceDesk.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "OfflineServiceDesk.Infrastructure\\OfflineServiceDesk.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Infrastructure\\OfflineServiceDesk.Infrastructure.csproj",
+              "RelativeToolTip": "OfflineServiceDesk.Infrastructure\\OfflineServiceDesk.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-12T14:42:50.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Application\\TicketService.cs",
+              "RelativeDocumentMoniker": "OfflineServiceDesk.Application\\TicketService.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Application\\TicketService.cs",
+              "RelativeToolTip": "OfflineServiceDesk.Application\\TicketService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T14:42:41.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OfflineServiceDesk.Application",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Application\\OfflineServiceDesk.Application.csproj",
+              "RelativeDocumentMoniker": "OfflineServiceDesk.Application\\OfflineServiceDesk.Application.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Application\\OfflineServiceDesk.Application.csproj",
+              "RelativeToolTip": "OfflineServiceDesk.Application\\OfflineServiceDesk.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-12T14:42:17.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tickets.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Core\\Tickets.cs",
+              "RelativeDocumentMoniker": "OfflineServiceDesk.Core\\Tickets.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Core\\Tickets.cs",
+              "RelativeToolTip": "OfflineServiceDesk.Core\\Tickets.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwAQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T14:42:00.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OfflineServiceDesk.Core",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Core\\OfflineServiceDesk.Core.csproj",
+              "RelativeDocumentMoniker": "OfflineServiceDesk.Core\\OfflineServiceDesk.Core.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDesk\\OfflineServiceDesk.Core\\OfflineServiceDesk.Core.csproj",
+              "RelativeToolTip": "OfflineServiceDesk.Core\\OfflineServiceDesk.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-12T14:41:15.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

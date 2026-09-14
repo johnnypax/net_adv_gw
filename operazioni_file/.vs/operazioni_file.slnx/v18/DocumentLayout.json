@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\operazioni_file\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{226EFF36-7313-44AA-8725-3E972BB78C28}|operazioni_file\\operazioni_file.csproj|c:\\users\\academy\\source\\repos\\gw\\operazioni_file\\operazioni_file\\models\\importresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{226EFF36-7313-44AA-8725-3E972BB78C28}|operazioni_file\\operazioni_file.csproj|solutionrelative:operazioni_file\\models\\importresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA02B933-217E-69AD-0EA0-248E74ADC27C}|operazioni_file\\operazioni_file.csproj|c:\\users\\academy\\source\\repos\\gw\\operazioni_file\\operazioni_file\\jsonsettingsstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA02B933-217E-69AD-0EA0-248E74ADC27C}|operazioni_file\\operazioni_file.csproj|solutionrelative:operazioni_file\\jsonsettingsstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{226EFF36-7313-44AA-8725-3E972BB78C28}|operazioni_file\\operazioni_file.csproj|c:\\users\\academy\\source\\repos\\gw\\operazioni_file\\operazioni_file\\models\\importerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{226EFF36-7313-44AA-8725-3E972BB78C28}|operazioni_file\\operazioni_file.csproj|solutionrelative:operazioni_file\\models\\importerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA02B933-217E-69AD-0EA0-248E74ADC27C}|operazioni_file\\operazioni_file.csproj|c:\\users\\academy\\source\\repos\\gw\\operazioni_file\\operazioni_file\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA02B933-217E-69AD-0EA0-248E74ADC27C}|operazioni_file\\operazioni_file.csproj|solutionrelative:operazioni_file\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{226EFF36-7313-44AA-8725-3E972BB78C28}|operazioni_file\\operazioni_file.csproj|c:\\users\\academy\\source\\repos\\gw\\operazioni_file\\operazioni_file\\csvticketimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{226EFF36-7313-44AA-8725-3E972BB78C28}|operazioni_file\\operazioni_file.csproj|solutionrelative:operazioni_file\\csvticketimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA02B933-217E-69AD-0EA0-248E74ADC27C}|operazioni_file\\operazioni_file.csproj|c:\\users\\academy\\source\\repos\\gw\\operazioni_file\\operazioni_file\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA02B933-217E-69AD-0EA0-248E74ADC27C}|operazioni_file\\operazioni_file.csproj|solutionrelative:operazioni_file\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{226EFF36-7313-44AA-8725-3E972BB78C28}|operazioni_file\\operazioni_file.csproj|c:\\users\\academy\\source\\repos\\gw\\operazioni_file\\operazioni_file\\jsonsettingsstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{226EFF36-7313-44AA-8725-3E972BB78C28}|operazioni_file\\operazioni_file.csproj|solutionrelative:operazioni_file\\jsonsettingsstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA02B933-217E-69AD-0EA0-248E74ADC27C}|operazioni_file\\operazioni_file.csproj|c:\\users\\academy\\source\\repos\\gw\\operazioni_file\\operazioni_file\\models\\importresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA02B933-217E-69AD-0EA0-248E74ADC27C}|operazioni_file\\operazioni_file.csproj|solutionrelative:operazioni_file\\models\\importresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{226EFF36-7313-44AA-8725-3E972BB78C28}|operazioni_file\\operazioni_file.csproj|c:\\users\\academy\\source\\repos\\gw\\operazioni_file\\operazioni_file\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{226EFF36-7313-44AA-8725-3E972BB78C28}|operazioni_file\\operazioni_file.csproj|solutionrelative:operazioni_file\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA02B933-217E-69AD-0EA0-248E74ADC27C}|operazioni_file\\operazioni_file.csproj|c:\\users\\academy\\source\\repos\\gw\\operazioni_file\\operazioni_file\\models\\importerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA02B933-217E-69AD-0EA0-248E74ADC27C}|operazioni_file\\operazioni_file.csproj|solutionrelative:operazioni_file\\models\\importerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{226EFF36-7313-44AA-8725-3E972BB78C28}|operazioni_file\\operazioni_file.csproj|c:\\users\\academy\\source\\repos\\gw\\operazioni_file\\operazioni_file\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{226EFF36-7313-44AA-8725-3E972BB78C28}|operazioni_file\\operazioni_file.csproj|solutionrelative:operazioni_file\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA02B933-217E-69AD-0EA0-248E74ADC27C}|operazioni_file\\operazioni_file.csproj|c:\\users\\academy\\source\\repos\\gw\\operazioni_file\\operazioni_file\\csvticketimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA02B933-217E-69AD-0EA0-248E74ADC27C}|operazioni_file\\operazioni_file.csproj|solutionrelative:operazioni_file\\csvticketimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{226EFF36-7313-44AA-8725-3E972BB78C28}|operazioni_file\\operazioni_file.csproj|c:\\users\\academy\\source\\repos\\gw\\operazioni_file\\operazioni_file\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{226EFF36-7313-44AA-8725-3E972BB78C28}|operazioni_file\\operazioni_file.csproj|solutionrelative:operazioni_file\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA02B933-217E-69AD-0EA0-248E74ADC27C}|operazioni_file\\operazioni_file.csproj|c:\\users\\academy\\source\\repos\\gw\\operazioni_file\\operazioni_file\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA02B933-217E-69AD-0EA0-248E74ADC27C}|operazioni_file\\operazioni_file.csproj|solutionrelative:operazioni_file\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ImportError.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\operazioni_file\\operazioni_file\\Models\\ImportError.cs",
               "RelativeDocumentMoniker": "operazioni_file\\Models\\ImportError.cs",
@@ -50,25 +50,24 @@
               "RelativeToolTip": "operazioni_file\\Models\\ImportError.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T14:55:28.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T14:55:28.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ImportResult.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\operazioni_file\\operazioni_file\\Models\\ImportResult.cs",
               "RelativeDocumentMoniker": "operazioni_file\\Models\\ImportResult.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\operazioni_file\\operazioni_file\\Models\\ImportResult.cs",
               "RelativeToolTip": "operazioni_file\\Models\\ImportResult.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAqwEoAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T14:53:13.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CsvTicketImport.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\operazioni_file\\operazioni_file\\CsvTicketImport.cs",
               "RelativeDocumentMoniker": "operazioni_file\\CsvTicketImport.cs",
@@ -76,12 +75,11 @@
               "RelativeToolTip": "operazioni_file\\CsvTicketImport.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T14:51:46.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T14:51:46.44Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Ticket.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\operazioni_file\\operazioni_file\\Models\\Ticket.cs",
               "RelativeDocumentMoniker": "operazioni_file\\Models\\Ticket.cs",
@@ -89,44 +87,43 @@
               "RelativeToolTip": "operazioni_file\\Models\\Ticket.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T14:50:37.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T14:50:37.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "AppSettings.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\operazioni_file\\operazioni_file\\Models\\AppSettings.cs",
               "RelativeDocumentMoniker": "operazioni_file\\Models\\AppSettings.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\operazioni_file\\operazioni_file\\Models\\AppSettings.cs",
               "RelativeToolTip": "operazioni_file\\Models\\AppSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T14:40:19.733Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "JsonSettingsStore.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\operazioni_file\\operazioni_file\\JsonSettingsStore.cs",
               "RelativeDocumentMoniker": "operazioni_file\\JsonSettingsStore.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\operazioni_file\\operazioni_file\\JsonSettingsStore.cs",
               "RelativeToolTip": "operazioni_file\\JsonSettingsStore.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAwD4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCgAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T14:07:21.243Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\operazioni_file\\operazioni_file\\Program.cs",
               "RelativeDocumentMoniker": "operazioni_file\\Program.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\operazioni_file\\operazioni_file\\Program.cs",
               "RelativeToolTip": "operazioni_file\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T14:04:46.617Z",
               "EditorCaption": ""
