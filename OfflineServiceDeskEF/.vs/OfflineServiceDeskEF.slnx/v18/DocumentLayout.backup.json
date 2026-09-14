@@ -7,28 +7,12 @@
       "RelativeMoniker": "D:0:0:{50F629B6-FA66-2E42-924D-9D59C4F891AA}|OfflineServiceDeskEF\\OfflineServiceDeskEF.csproj|solutionrelative:offlineservicedeskef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50F629B6-FA66-2E42-924D-9D59C4F891AA}|OfflineServiceDeskEF\\OfflineServiceDeskEF.csproj|c:\\users\\academy\\source\\repos\\gw\\offlineservicedeskef\\offlineservicedeskef\\migrations\\20260914094800_addedoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50F629B6-FA66-2E42-924D-9D59C4F891AA}|OfflineServiceDeskEF\\OfflineServiceDeskEF.csproj|solutionrelative:offlineservicedeskef\\migrations\\20260914094800_addedoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50F629B6-FA66-2E42-924D-9D59C4F891AA}|OfflineServiceDeskEF\\OfflineServiceDeskEF.csproj|c:\\users\\academy\\source\\repos\\gw\\offlineservicedeskef\\offlineservicedeskef\\servicedeskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50F629B6-FA66-2E42-924D-9D59C4F891AA}|OfflineServiceDeskEF\\OfflineServiceDeskEF.csproj|solutionrelative:offlineservicedeskef\\servicedeskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50F629B6-FA66-2E42-924D-9D59C4F891AA}|OfflineServiceDeskEF\\OfflineServiceDeskEF.csproj|c:\\users\\academy\\source\\repos\\gw\\offlineservicedeskef\\offlineservicedeskef\\efticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F629B6-FA66-2E42-924D-9D59C4F891AA}|OfflineServiceDeskEF\\OfflineServiceDeskEF.csproj|solutionrelative:offlineservicedeskef\\efticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50F629B6-FA66-2E42-924D-9D59C4F891AA}|OfflineServiceDeskEF\\OfflineServiceDeskEF.csproj|c:\\users\\academy\\source\\repos\\gw\\offlineservicedeskef\\offlineservicedeskef\\ticketentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50F629B6-FA66-2E42-924D-9D59C4F891AA}|OfflineServiceDeskEF\\OfflineServiceDeskEF.csproj|solutionrelative:offlineservicedeskef\\ticketentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50F629B6-FA66-2E42-924D-9D59C4F891AA}|OfflineServiceDeskEF\\OfflineServiceDeskEF.csproj|c:\\users\\academy\\source\\repos\\gw\\offlineservicedeskef\\offlineservicedeskef\\migrations\\20260914093244_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50F629B6-FA66-2E42-924D-9D59C4F891AA}|OfflineServiceDeskEF\\OfflineServiceDeskEF.csproj|solutionrelative:offlineservicedeskef\\migrations\\20260914093244_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50F629B6-FA66-2E42-924D-9D59C4F891AA}|OfflineServiceDeskEF\\OfflineServiceDeskEF.csproj|c:\\users\\academy\\source\\repos\\gw\\offlineservicedeskef\\offlineservicedeskef\\migrations\\servicedeskdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50F629B6-FA66-2E42-924D-9D59C4F891AA}|OfflineServiceDeskEF\\OfflineServiceDeskEF.csproj|solutionrelative:offlineservicedeskef\\migrations\\servicedeskdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDeskEF\\OfflineServiceDeskEF\\Migrations\\20260914092347_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OfflineServiceDeskEF\\Migrations\\20260914092347_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,32 +22,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20260914094800_AddedOperator.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDeskEF\\OfflineServiceDeskEF\\Migrations\\20260914094800_AddedOperator.cs",
-              "RelativeDocumentMoniker": "OfflineServiceDeskEF\\Migrations\\20260914094800_AddedOperator.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDeskEF\\OfflineServiceDeskEF\\Migrations\\20260914094800_AddedOperator.cs",
-              "RelativeToolTip": "OfflineServiceDeskEF\\Migrations\\20260914094800_AddedOperator.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBAAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "TicketEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDeskEF\\OfflineServiceDeskEF\\TicketEntity.cs",
+              "RelativeDocumentMoniker": "OfflineServiceDeskEF\\TicketEntity.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDeskEF\\OfflineServiceDeskEF\\TicketEntity.cs",
+              "RelativeToolTip": "OfflineServiceDeskEF\\TicketEntity.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wBwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T09:48:00.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20260914093244_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDeskEF\\OfflineServiceDeskEF\\Migrations\\20260914093244_Initial.cs",
-              "RelativeDocumentMoniker": "OfflineServiceDeskEF\\Migrations\\20260914093244_Initial.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDeskEF\\OfflineServiceDeskEF\\Migrations\\20260914093244_Initial.cs",
-              "RelativeToolTip": "OfflineServiceDeskEF\\Migrations\\20260914093244_Initial.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAmwEMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T09:32:45.156Z",
+              "WhenOpened": "2026-09-14T12:25:06.921Z",
               "EditorCaption": ""
             },
             {
@@ -74,61 +45,22 @@
               "RelativeDocumentMoniker": "OfflineServiceDeskEF\\Program.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDeskEF\\OfflineServiceDeskEF\\Program.cs",
               "RelativeToolTip": "OfflineServiceDeskEF\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwDQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T09:24:18.903Z",
+              "WhenOpened": "2026-09-14T12:21:03.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20260914092347_Init.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDeskEF\\OfflineServiceDeskEF\\Migrations\\20260914092347_Init.cs",
-              "RelativeDocumentMoniker": "OfflineServiceDeskEF\\Migrations\\20260914092347_Init.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDeskEF\\OfflineServiceDeskEF\\Migrations\\20260914092347_Init.cs",
-              "RelativeToolTip": "OfflineServiceDeskEF\\Migrations\\20260914092347_Init.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "EFTicketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDeskEF\\OfflineServiceDeskEF\\EFTicketRepository.cs",
+              "RelativeDocumentMoniker": "OfflineServiceDeskEF\\EFTicketRepository.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDeskEF\\OfflineServiceDeskEF\\EFTicketRepository.cs",
+              "RelativeToolTip": "OfflineServiceDeskEF\\EFTicketRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwCcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T09:23:47.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ServiceDeskDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDeskEF\\OfflineServiceDeskEF\\ServiceDeskDbContext.cs",
-              "RelativeDocumentMoniker": "OfflineServiceDeskEF\\ServiceDeskDbContext.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDeskEF\\OfflineServiceDeskEF\\ServiceDeskDbContext.cs",
-              "RelativeToolTip": "OfflineServiceDeskEF\\ServiceDeskDbContext.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwCsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T09:22:39.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TicketEntity.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDeskEF\\OfflineServiceDeskEF\\TicketEntity.cs",
-              "RelativeDocumentMoniker": "OfflineServiceDeskEF\\TicketEntity.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDeskEF\\OfflineServiceDeskEF\\TicketEntity.cs",
-              "RelativeToolTip": "OfflineServiceDeskEF\\TicketEntity.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T09:22:36.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ServiceDeskDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDeskEF\\OfflineServiceDeskEF\\Migrations\\ServiceDeskDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "OfflineServiceDeskEF\\Migrations\\ServiceDeskDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OfflineServiceDeskEF\\OfflineServiceDeskEF\\Migrations\\ServiceDeskDbContextModelSnapshot.cs",
-              "RelativeToolTip": "OfflineServiceDeskEF\\Migrations\\ServiceDeskDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAQwBcAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T09:34:30.846Z",
+              "WhenOpened": "2026-09-14T12:05:52.839Z",
               "EditorCaption": ""
             }
           ]

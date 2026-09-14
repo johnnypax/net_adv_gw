@@ -15,7 +15,7 @@ namespace OfflineServiceDeskEF.Migrations
                 table: "tickets",
                 type: "TEXT",
                 nullable: false,
-                defaultValue: "");
+                defaultValue: "N.D.");
         }
 
         /// <inheritdoc />

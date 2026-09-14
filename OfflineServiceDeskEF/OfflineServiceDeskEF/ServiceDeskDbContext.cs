@@ -39,9 +39,10 @@ public sealed class ServiceDeskDbContext(
                 .HasColumnName("created_at")
                 .IsRequired();
 
-            ticket.Property(item => item.Operator)
-                .HasColumnName("operator")
-                .IsRequired();
+            //ticket.Property(item => item.Operator)
+            //    .HasColumnName("operator")
+            //    .HasDefaultValue("N.D.")
+            //    .IsRequired();
 
             ticket.HasIndex(ticket => new
             {

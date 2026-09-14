@@ -11,7 +11,7 @@ using OfflineServiceDeskEF;
 namespace OfflineServiceDeskEF.Migrations
 {
     [DbContext(typeof(ServiceDeskDbContext))]
-    [Migration("20260914094800_AddedOperator")]
+    [Migration("20260914111750_AddedOperator")]
     partial class AddedOperator
     {
         /// <inheritdoc />
@@ -58,7 +58,9 @@ namespace OfflineServiceDeskEF.Migrations
 
                     b.Property<string>("Operator")
                         .IsRequired()
+                        .ValueGeneratedOnAdd()
                         .HasColumnType("TEXT")
+                        .HasDefaultValue("N.D.")
                         .HasColumnName("operator");
 
                     b.Property<string>("Priority")

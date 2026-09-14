@@ -11,7 +11,7 @@ using OfflineServiceDeskEF;
 namespace OfflineServiceDeskEF.Migrations
 {
     [DbContext(typeof(ServiceDeskDbContext))]
-    [Migration("20260914093244_Initial")]
+    [Migration("20260914111110_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
