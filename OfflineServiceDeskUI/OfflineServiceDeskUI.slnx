@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="OfflineServiceDeskUI.Application/OfflineServiceDeskUI.Application.csproj" />
+  <Project Path="OfflineServiceDeskUI.Core/OfflineServiceDeskUI.Core.csproj" />
+  <Project Path="OfflineServiceDeskUI.Desktop/OfflineServiceDeskUI.Desktop.csproj" />
+  <Project Path="OfflineServiceDeskUI.Infrastructure/OfflineServiceDeskUI.Infrastructure.csproj" />
+</Solution>

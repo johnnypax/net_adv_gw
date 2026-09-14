@@ -1,0 +1,68 @@
+﻿<Window x:Class="OfflineServiceDesk.Desktop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="OfflineServiceDesk — Modulo 05"
+        Height="560" Width="940"
+        MinHeight="480" MinWidth="760">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <DockPanel Grid.Row="0" Margin="0,0,0,12">
+            <TextBlock Text="Ticket offline"
+                       FontSize="26" FontWeight="SemiBold" />
+            <Button Content="Ricarica"
+                    Command="{Binding ReloadCommand}"
+                    Padding="16,7"
+                    HorizontalAlignment="Right" />
+        </DockPanel>
+
+        <ProgressBar Grid.Row="1"
+                     IsIndeterminate="True" Height="4" Margin="0,0,0,12"
+                     Visibility="{Binding BusyVisibility}" />
+
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="20" />
+                <ColumnDefinition Width="3*" />
+            </Grid.ColumnDefinitions>
+
+            <ListBox Grid.Column="0"
+                     ItemsSource="{Binding Tickets}"
+                     SelectedItem="{Binding SelectedTicket}"
+                     DisplayMemberPath="Title" />
+
+            <Border Grid.Column="2" Padding="20" BorderBrush="#DDD" BorderThickness="1">
+                <StackPanel>
+                    <TextBlock Text="Dettaglio" FontSize="20" FontWeight="SemiBold" />
+                    <TextBlock Text="Titolo" Margin="0,20,0,5" />
+
+                    <TextBox x:Name="TitleBox"
+                             Text="{Binding EditTitle,
+                                    UpdateSourceTrigger=PropertyChanged,
+                                    ValidatesOnNotifyDataErrors=True}" />
+
+                    <TextBlock Foreground="Firebrick" Margin="0,4,0,0"
+                               Text="{Binding (Validation.Errors)[0].ErrorContent,
+                                      ElementName=TitleBox}" />
+
+                    <TextBlock Text="Stato" Margin="0,18,0,5" />
+                    <TextBlock Text="{Binding SelectedTicket.Status}" FontWeight="SemiBold" />
+
+                    <Button Content="Salva modifiche"
+                            Command="{Binding SaveCommand}"
+                            Padding="18,8" Margin="0,24,0,0"
+                            HorizontalAlignment="Left" />
+                </StackPanel>
+            </Border>
+        </Grid>
+
+        <TextBlock Grid.Row="3" Text="{Binding Message}"
+                   Margin="0,14,0,0" Foreground="#444" />
+    </Grid>
+</Window>

@@ -76,7 +76,7 @@
               "RelativeDocumentMoniker": "Inventory.Core\\Product.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\Inventory.ConsoleApp\\Inventory.Core\\Product.cs",
               "RelativeToolTip": "Inventory.Core\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwBwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T13:29:42.747Z",
               "EditorCaption": ""
@@ -115,8 +115,7 @@
               "RelativeToolTip": "Inventory.Application\\UseCaseException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T12:45:39.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T12:45:39.821Z"
             },
             {
               "$type": "Document",
