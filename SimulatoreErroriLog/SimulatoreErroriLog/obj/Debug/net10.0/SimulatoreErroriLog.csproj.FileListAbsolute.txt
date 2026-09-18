@@ -1,0 +1,16 @@
+C:\Users\ACADEMY\source\repos\GW\SimulatoreErroriLog\SimulatoreErroriLog\bin\Debug\net10.0\SimulatoreErroriLog.exe
+C:\Users\ACADEMY\source\repos\GW\SimulatoreErroriLog\SimulatoreErroriLog\bin\Debug\net10.0\SimulatoreErroriLog.deps.json
+C:\Users\ACADEMY\source\repos\GW\SimulatoreErroriLog\SimulatoreErroriLog\bin\Debug\net10.0\SimulatoreErroriLog.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\GW\SimulatoreErroriLog\SimulatoreErroriLog\bin\Debug\net10.0\SimulatoreErroriLog.dll
+C:\Users\ACADEMY\source\repos\GW\SimulatoreErroriLog\SimulatoreErroriLog\bin\Debug\net10.0\SimulatoreErroriLog.pdb
+C:\Users\ACADEMY\source\repos\GW\SimulatoreErroriLog\SimulatoreErroriLog\obj\Debug\net10.0\SimulatoreErroriLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\GW\SimulatoreErroriLog\SimulatoreErroriLog\obj\Debug\net10.0\SimulatoreErroriLog.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\GW\SimulatoreErroriLog\SimulatoreErroriLog\obj\Debug\net10.0\SimulatoreErroriLog.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\GW\SimulatoreErroriLog\SimulatoreErroriLog\obj\Debug\net10.0\SimulatoreErroriLog.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\GW\SimulatoreErroriLog\SimulatoreErroriLog\obj\Debug\net10.0\SimulatoreErroriLog.sourcelink.json
+C:\Users\ACADEMY\source\repos\GW\SimulatoreErroriLog\SimulatoreErroriLog\obj\Debug\net10.0\SimulatoreErroriLog.dll
+C:\Users\ACADEMY\source\repos\GW\SimulatoreErroriLog\SimulatoreErroriLog\obj\Debug\net10.0\refint\SimulatoreErroriLog.dll
+C:\Users\ACADEMY\source\repos\GW\SimulatoreErroriLog\SimulatoreErroriLog\obj\Debug\net10.0\SimulatoreErroriLog.pdb
+C:\Users\ACADEMY\source\repos\GW\SimulatoreErroriLog\SimulatoreErroriLog\obj\Debug\net10.0\SimulatoreErroriLog.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\GW\SimulatoreErroriLog\SimulatoreErroriLog\obj\Debug\net10.0\ref\SimulatoreErroriLog.dll
+C:\Users\ACADEMY\source\repos\GW\SimulatoreErroriLog\SimulatoreErroriLog\obj\Debug\net10.0\Simulato.1B3AFBD7.Up2Date
