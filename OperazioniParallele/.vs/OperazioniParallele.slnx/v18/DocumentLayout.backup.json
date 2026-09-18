@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OperazioniParallele\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F63A2623-345E-4108-9C1F-3AEEB366DEAD}|OperazioniParallele\\OperazioniParallele.csproj|c:\\users\\academy\\source\\repos\\gw\\operazioniparallele\\operazioniparallele\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F63A2623-345E-4108-9C1F-3AEEB366DEAD}|OperazioniParallele\\OperazioniParallele.csproj|solutionrelative:operazioniparallele\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DF66D4A-87A6-2F8E-9B84-DD4D104A74DF}|OperazioniParallele\\OperazioniParallele.csproj|c:\\users\\academy\\source\\repos\\gw\\operazioniparallele\\operazioniparallele\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF66D4A-87A6-2F8E-9B84-DD4D104A74DF}|OperazioniParallele\\OperazioniParallele.csproj|solutionrelative:operazioniparallele\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF66D4A-87A6-2F8E-9B84-DD4D104A74DF}|OperazioniParallele\\OperazioniParallele.csproj|c:\\users\\academy\\source\\repos\\gw\\operazioniparallele\\operazioniparallele\\importservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF66D4A-87A6-2F8E-9B84-DD4D104A74DF}|OperazioniParallele\\OperazioniParallele.csproj|solutionrelative:operazioniparallele\\importservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF66D4A-87A6-2F8E-9B84-DD4D104A74DF}|OperazioniParallele\\OperazioniParallele.csproj|c:\\users\\academy\\source\\repos\\gw\\operazioniparallele\\operazioniparallele\\tickets.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7DF66D4A-87A6-2F8E-9B84-DD4D104A74DF}|OperazioniParallele\\OperazioniParallele.csproj|solutionrelative:operazioniparallele\\tickets.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF66D4A-87A6-2F8E-9B84-DD4D104A74DF}|OperazioniParallele\\OperazioniParallele.csproj|c:\\users\\academy\\source\\repos\\gw\\operazioniparallele\\operazioniparallele\\demofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF66D4A-87A6-2F8E-9B84-DD4D104A74DF}|OperazioniParallele\\OperazioniParallele.csproj|solutionrelative:operazioniparallele\\demofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tickets.txt",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OperazioniParallele\\OperazioniParallele\\tickets.txt",
+              "RelativeDocumentMoniker": "OperazioniParallele\\tickets.txt",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OperazioniParallele\\OperazioniParallele\\tickets.txt",
+              "RelativeToolTip": "OperazioniParallele\\tickets.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-18T13:59:24.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImportService.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OperazioniParallele\\OperazioniParallele\\ImportService.cs",
+              "RelativeDocumentMoniker": "OperazioniParallele\\ImportService.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OperazioniParallele\\OperazioniParallele\\ImportService.cs",
+              "RelativeToolTip": "OperazioniParallele\\ImportService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T13:34:39.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DemoFiles.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OperazioniParallele\\OperazioniParallele\\DemoFiles.cs",
+              "RelativeDocumentMoniker": "OperazioniParallele\\DemoFiles.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OperazioniParallele\\OperazioniParallele\\DemoFiles.cs",
+              "RelativeToolTip": "OperazioniParallele\\DemoFiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T13:24:41.188Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +75,7 @@
               "RelativeDocumentMoniker": "OperazioniParallele\\Program.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\OperazioniParallele\\OperazioniParallele\\Program.cs",
               "RelativeToolTip": "OperazioniParallele\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-18T11:24:46.377Z",
               "EditorCaption": ""

@@ -1,0 +1,16 @@
+C:\Users\ACADEMY\source\repos\GW\OperazioniParallele\OperazioniParallele\bin\Debug\net10.0\OperazioniParallele.exe
+C:\Users\ACADEMY\source\repos\GW\OperazioniParallele\OperazioniParallele\bin\Debug\net10.0\OperazioniParallele.deps.json
+C:\Users\ACADEMY\source\repos\GW\OperazioniParallele\OperazioniParallele\bin\Debug\net10.0\OperazioniParallele.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\GW\OperazioniParallele\OperazioniParallele\bin\Debug\net10.0\OperazioniParallele.dll
+C:\Users\ACADEMY\source\repos\GW\OperazioniParallele\OperazioniParallele\bin\Debug\net10.0\OperazioniParallele.pdb
+C:\Users\ACADEMY\source\repos\GW\OperazioniParallele\OperazioniParallele\obj\Debug\net10.0\OperazioniParallele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\GW\OperazioniParallele\OperazioniParallele\obj\Debug\net10.0\OperazioniParallele.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\GW\OperazioniParallele\OperazioniParallele\obj\Debug\net10.0\OperazioniParallele.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\GW\OperazioniParallele\OperazioniParallele\obj\Debug\net10.0\OperazioniParallele.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\GW\OperazioniParallele\OperazioniParallele\obj\Debug\net10.0\OperazioniParallele.sourcelink.json
+C:\Users\ACADEMY\source\repos\GW\OperazioniParallele\OperazioniParallele\obj\Debug\net10.0\OperazioniParallele.dll
+C:\Users\ACADEMY\source\repos\GW\OperazioniParallele\OperazioniParallele\obj\Debug\net10.0\refint\OperazioniParallele.dll
+C:\Users\ACADEMY\source\repos\GW\OperazioniParallele\OperazioniParallele\obj\Debug\net10.0\OperazioniParallele.pdb
+C:\Users\ACADEMY\source\repos\GW\OperazioniParallele\OperazioniParallele\obj\Debug\net10.0\OperazioniParallele.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\GW\OperazioniParallele\OperazioniParallele\obj\Debug\net10.0\ref\OperazioniParallele.dll
+C:\Users\ACADEMY\source\repos\GW\OperazioniParallele\OperazioniParallele\obj\Debug\net10.0\Operazio.160AA9F4.Up2Date
