@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\ProgettoDistribuzione\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5161F9BC-3544-4721-8A5E-29DAB77C484D}|ProgettoDistribuzione\\ProgettoDistribuzione.csproj|c:\\users\\academy\\source\\repos\\gw\\progettodistribuzione\\progettodistribuzione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5161F9BC-3544-4721-8A5E-29DAB77C484D}|ProgettoDistribuzione\\ProgettoDistribuzione.csproj|solutionrelative:progettodistribuzione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F186C11C-26B2-9361-CA63-03ED35D68A0A}|ProgettoDistribuzione\\ProgettoDistribuzione.csproj|c:\\users\\academy\\source\\repos\\gw\\progettodistribuzione\\progettodistribuzione\\progettodistribuzione.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F186C11C-26B2-9361-CA63-03ED35D68A0A}|ProgettoDistribuzione\\ProgettoDistribuzione.csproj|solutionrelative:progettodistribuzione\\progettodistribuzione.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5161F9BC-3544-4721-8A5E-29DAB77C484D}|ProgettoDistribuzione\\ProgettoDistribuzione.csproj|c:\\users\\academy\\source\\repos\\gw\\progettodistribuzione\\progettodistribuzione\\progettodistribuzione.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5161F9BC-3544-4721-8A5E-29DAB77C484D}|ProgettoDistribuzione\\ProgettoDistribuzione.csproj|solutionrelative:progettodistribuzione\\progettodistribuzione.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F186C11C-26B2-9361-CA63-03ED35D68A0A}|ProgettoDistribuzione\\ProgettoDistribuzione.csproj|c:\\users\\academy\\source\\repos\\gw\\progettodistribuzione\\progettodistribuzione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F186C11C-26B2-9361-CA63-03ED35D68A0A}|ProgettoDistribuzione\\ProgettoDistribuzione.csproj|solutionrelative:progettodistribuzione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProgettoDistribuzione",
+              "DocumentIndex": 0,
+              "Title": "ProgettoDistribuzione.csproj",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\ProgettoDistribuzione\\ProgettoDistribuzione\\ProgettoDistribuzione.csproj",
               "RelativeDocumentMoniker": "ProgettoDistribuzione\\ProgettoDistribuzione.csproj",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\ProgettoDistribuzione\\ProgettoDistribuzione\\ProgettoDistribuzione.csproj",
               "RelativeToolTip": "ProgettoDistribuzione\\ProgettoDistribuzione.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-09-18T06:37:06.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\ProgettoDistribuzione\\ProgettoDistribuzione\\Program.cs",
               "RelativeDocumentMoniker": "ProgettoDistribuzione\\Program.cs",
