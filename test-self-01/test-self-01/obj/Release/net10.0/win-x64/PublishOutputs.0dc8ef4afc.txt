@@ -1,0 +1,2 @@
+C:\Users\ACADEMY\source\repos\GW\test-self-01\test-self-01\artifacts\publish\test-self-01.pdb
+C:\Users\ACADEMY\source\repos\GW\test-self-01\test-self-01\artifacts\publish\test-self-01.exe

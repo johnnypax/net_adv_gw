@@ -1,0 +1,16 @@
+C:\Users\ACADEMY\source\repos\GW\ProgettoDistribuzione\ProgettoDistribuzione\bin\Debug\net10.0\ProgettoDistribuzione.exe
+C:\Users\ACADEMY\source\repos\GW\ProgettoDistribuzione\ProgettoDistribuzione\bin\Debug\net10.0\ProgettoDistribuzione.deps.json
+C:\Users\ACADEMY\source\repos\GW\ProgettoDistribuzione\ProgettoDistribuzione\bin\Debug\net10.0\ProgettoDistribuzione.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\GW\ProgettoDistribuzione\ProgettoDistribuzione\bin\Debug\net10.0\ProgettoDistribuzione.dll
+C:\Users\ACADEMY\source\repos\GW\ProgettoDistribuzione\ProgettoDistribuzione\bin\Debug\net10.0\ProgettoDistribuzione.pdb
+C:\Users\ACADEMY\source\repos\GW\ProgettoDistribuzione\ProgettoDistribuzione\obj\Debug\net10.0\ProgettoDistribuzione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\GW\ProgettoDistribuzione\ProgettoDistribuzione\obj\Debug\net10.0\ProgettoDistribuzione.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\GW\ProgettoDistribuzione\ProgettoDistribuzione\obj\Debug\net10.0\ProgettoDistribuzione.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\GW\ProgettoDistribuzione\ProgettoDistribuzione\obj\Debug\net10.0\ProgettoDistribuzione.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\GW\ProgettoDistribuzione\ProgettoDistribuzione\obj\Debug\net10.0\ProgettoDistribuzione.sourcelink.json
+C:\Users\ACADEMY\source\repos\GW\ProgettoDistribuzione\ProgettoDistribuzione\obj\Debug\net10.0\ProgettoDistribuzione.dll
+C:\Users\ACADEMY\source\repos\GW\ProgettoDistribuzione\ProgettoDistribuzione\obj\Debug\net10.0\refint\ProgettoDistribuzione.dll
+C:\Users\ACADEMY\source\repos\GW\ProgettoDistribuzione\ProgettoDistribuzione\obj\Debug\net10.0\ProgettoDistribuzione.pdb
+C:\Users\ACADEMY\source\repos\GW\ProgettoDistribuzione\ProgettoDistribuzione\obj\Debug\net10.0\ProgettoDistribuzione.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\GW\ProgettoDistribuzione\ProgettoDistribuzione\obj\Debug\net10.0\ref\ProgettoDistribuzione.dll
+C:\Users\ACADEMY\source\repos\GW\ProgettoDistribuzione\ProgettoDistribuzione\obj\Debug\net10.0\Progetto.6B7AA729.Up2Date

@@ -1,0 +1,16 @@
+C:\Users\ACADEMY\source\repos\GW\test-self-01\test-self-01\bin\Debug\net10.0\test-self-01.exe
+C:\Users\ACADEMY\source\repos\GW\test-self-01\test-self-01\bin\Debug\net10.0\test-self-01.deps.json
+C:\Users\ACADEMY\source\repos\GW\test-self-01\test-self-01\bin\Debug\net10.0\test-self-01.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\GW\test-self-01\test-self-01\bin\Debug\net10.0\test-self-01.dll
+C:\Users\ACADEMY\source\repos\GW\test-self-01\test-self-01\bin\Debug\net10.0\test-self-01.pdb
+C:\Users\ACADEMY\source\repos\GW\test-self-01\test-self-01\obj\Debug\net10.0\test-self-01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\GW\test-self-01\test-self-01\obj\Debug\net10.0\test-self-01.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\GW\test-self-01\test-self-01\obj\Debug\net10.0\test-self-01.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\GW\test-self-01\test-self-01\obj\Debug\net10.0\test-self-01.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\GW\test-self-01\test-self-01\obj\Debug\net10.0\test-self-01.sourcelink.json
+C:\Users\ACADEMY\source\repos\GW\test-self-01\test-self-01\obj\Debug\net10.0\test-self-01.dll
+C:\Users\ACADEMY\source\repos\GW\test-self-01\test-self-01\obj\Debug\net10.0\refint\test-self-01.dll
+C:\Users\ACADEMY\source\repos\GW\test-self-01\test-self-01\obj\Debug\net10.0\test-self-01.pdb
+C:\Users\ACADEMY\source\repos\GW\test-self-01\test-self-01\obj\Debug\net10.0\test-self-01.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\GW\test-self-01\test-self-01\obj\Debug\net10.0\ref\test-self-01.dll
+C:\Users\ACADEMY\source\repos\GW\test-self-01\test-self-01\obj\Debug\net10.0\test-sel.5D7C2B86.Up2Date
