@@ -32,9 +32,10 @@ var service = new DatabaseService();
 //Console.WriteLine($"Verifica della corruzione: {corruptCheck.IsValid} - {corruptCheck.Message}");
 #endregion
 
+#region Restoring
 VerificationResult corruptCheck = await service.RestoreVerifiedAsync(backup, database);
 Console.WriteLine($"Verifica della corruzione: {corruptCheck.IsValid} - {corruptCheck.Message}");
-
+#endregion
 
 
 

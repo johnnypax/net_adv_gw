@@ -151,7 +151,7 @@ internal class DatabaseService
         string candidatePath = databasePath + ".restore-candidate";
         File.Copy(backupPath, candidatePath, overwrite: true);
 
-        VerificationResult candidateVerification = await VerifyBackupAsync(candidatePath);
+        VerificationResult candidateVerification = await CheckIntegrityAsync(candidatePath);
         if (!candidateVerification.IsValid)
         {
             return new(false, "Restore non effettuato, candidato non copiato correttamente!");
