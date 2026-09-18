@@ -1,0 +1,16 @@
+filebeat.inputs:
+  - type: filestream
+    id: release-incident-jsonl
+    enabled: true
+    paths:
+      - /logs/*.jsonl
+
+processors:
+  - add_fields:
+      target: labels
+      fields:
+        environment: training
+        lab: release-incident
+
+output.logstash:
+  hosts: ["logstash:5044"]
