@@ -121,6 +121,71 @@ internal class DatabaseService
         }
     }
 
+    public async Task CorruptCopyAsync(
+        string sourcePath, string corruptDestPath, CancellationToken cancellationToken = default)
+    {
+        File.Copy(sourcePath, corruptDestPath, overwrite: true);
+
+        await using FileStream stream = new(
+            corruptDestPath,
+            FileMode.Open,
+            FileAccess.ReadWrite,
+            FileShare.None,
+            bufferSize: 4096,
+            useAsync: true);
+
+        stream.Position = 0;
+        await stream.WriteAsync(new byte[] { 0x00, 0x00, 0x00, 0x00 }, cancellationToken);
+        await stream.FlushAsync(cancellationToken);
+    }
+
+    public async Task<VerificationResult> RestoreVerifiedAsync(
+        string backupPath, string databasePath, CancellationToken cancellationToken = default)
+    {
+        VerificationResult backupVerification = await VerifyBackupAsync(backupPath);
+        if (!backupVerification.IsValid)
+        {
+            return new(false, "Restore non effettuato, verifica backup fallita!");
+        }
+
+        string candidatePath = databasePath + ".restore-candidate";
+        File.Copy(backupPath, candidatePath, overwrite: true);
+
+        VerificationResult candidateVerification = await VerifyBackupAsync(candidatePath);
+        if (!candidateVerification.IsValid)
+        {
+            return new(false, "Restore non effettuato, candidato non copiato correttamente!");
+        }
+
+        string backupHash = await ComputeSha256Async(backupPath, cancellationToken);
+        string candidateHash = await ComputeSha256Async(candidatePath, cancellationToken);
+        if (!CryptographicOperations.FixedTimeEquals(
+            Convert.FromHexString(backupHash), Convert.FromHexString(candidateHash))
+            )
+        {
+            File.Delete(candidatePath);
+            return new(false, "Checksum SHA-256 differente!");
+        }
+
+        try
+        {
+            File.Move(candidatePath, databasePath, overwrite: true);
+            VerificationResult restored = await CheckIntegrityAsync(databasePath);
+            if (!restored.IsValid)
+            {
+                return new(false, "File ripristinato non valido");
+            }
+
+            return new(true, "Stappooooooooooo");
+        } catch
+        {
+            return new(false, "Non sono riuscito ad effettuare la move del file");
+        }
+        
+
+
+    }
+
     private static async Task<int> ReadSchemaVersionAsync(string path, CancellationToken cancellationToken)
     {
         await using var connection = Open(path, readOnly: true);

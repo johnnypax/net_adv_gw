@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\IntegritaSicurezza\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C61E24A9-F84A-4FD6-B0E2-6AB0C3A05E72}|IntegritaSicurezza\\IntegritaSicurezza.csproj|c:\\users\\academy\\source\\repos\\gw\\integritasicurezza\\integritasicurezza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C61E24A9-F84A-4FD6-B0E2-6AB0C3A05E72}|IntegritaSicurezza\\IntegritaSicurezza.csproj|solutionrelative:integritasicurezza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9FDB373-4805-4FAA-6EFE-C60723F5330C}|IntegritaSicurezza\\IntegritaSicurezza.csproj|c:\\users\\academy\\source\\repos\\gw\\integritasicurezza\\integritasicurezza\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9FDB373-4805-4FAA-6EFE-C60723F5330C}|IntegritaSicurezza\\IntegritaSicurezza.csproj|solutionrelative:integritasicurezza\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C61E24A9-F84A-4FD6-B0E2-6AB0C3A05E72}|IntegritaSicurezza\\IntegritaSicurezza.csproj|c:\\users\\academy\\source\\repos\\gw\\integritasicurezza\\integritasicurezza\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C61E24A9-F84A-4FD6-B0E2-6AB0C3A05E72}|IntegritaSicurezza\\IntegritaSicurezza.csproj|solutionrelative:integritasicurezza\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9FDB373-4805-4FAA-6EFE-C60723F5330C}|IntegritaSicurezza\\IntegritaSicurezza.csproj|c:\\users\\academy\\source\\repos\\gw\\integritasicurezza\\integritasicurezza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9FDB373-4805-4FAA-6EFE-C60723F5330C}|IntegritaSicurezza\\IntegritaSicurezza.csproj|solutionrelative:integritasicurezza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C61E24A9-F84A-4FD6-B0E2-6AB0C3A05E72}|IntegritaSicurezza\\IntegritaSicurezza.csproj|c:\\users\\academy\\source\\repos\\gw\\integritasicurezza\\integritasicurezza\\backupmanifest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C61E24A9-F84A-4FD6-B0E2-6AB0C3A05E72}|IntegritaSicurezza\\IntegritaSicurezza.csproj|solutionrelative:integritasicurezza\\backupmanifest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9FDB373-4805-4FAA-6EFE-C60723F5330C}|IntegritaSicurezza\\IntegritaSicurezza.csproj|c:\\users\\academy\\source\\repos\\gw\\integritasicurezza\\integritasicurezza\\backupmanifest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9FDB373-4805-4FAA-6EFE-C60723F5330C}|IntegritaSicurezza\\IntegritaSicurezza.csproj|solutionrelative:integritasicurezza\\backupmanifest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C61E24A9-F84A-4FD6-B0E2-6AB0C3A05E72}|IntegritaSicurezza\\IntegritaSicurezza.csproj|c:\\users\\academy\\source\\repos\\gw\\integritasicurezza\\integritasicurezza\\integritasicurezza.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C61E24A9-F84A-4FD6-B0E2-6AB0C3A05E72}|IntegritaSicurezza\\IntegritaSicurezza.csproj|solutionrelative:integritasicurezza\\integritasicurezza.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F9FDB373-4805-4FAA-6EFE-C60723F5330C}|IntegritaSicurezza\\IntegritaSicurezza.csproj|c:\\users\\academy\\source\\repos\\gw\\integritasicurezza\\integritasicurezza\\integritasicurezza.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9FDB373-4805-4FAA-6EFE-C60723F5330C}|IntegritaSicurezza\\IntegritaSicurezza.csproj|solutionrelative:integritasicurezza\\integritasicurezza.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -36,20 +36,20 @@
               "RelativeDocumentMoniker": "IntegritaSicurezza\\BackupManifest.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\IntegritaSicurezza\\IntegritaSicurezza\\BackupManifest.cs",
               "RelativeToolTip": "IntegritaSicurezza\\BackupManifest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-18T08:40:53.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DatabaseService.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\IntegritaSicurezza\\IntegritaSicurezza\\DatabaseService.cs",
               "RelativeDocumentMoniker": "IntegritaSicurezza\\DatabaseService.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\IntegritaSicurezza\\IntegritaSicurezza\\DatabaseService.cs",
               "RelativeToolTip": "IntegritaSicurezza\\DatabaseService.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAEwF8AAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAUwE8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-18T08:22:14.541Z",
               "EditorCaption": ""
@@ -57,25 +57,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IntegritaSicurezza",
+              "Title": "IntegritaSicurezza.csproj",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\IntegritaSicurezza\\IntegritaSicurezza\\IntegritaSicurezza.csproj",
               "RelativeDocumentMoniker": "IntegritaSicurezza\\IntegritaSicurezza.csproj",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\IntegritaSicurezza\\IntegritaSicurezza\\IntegritaSicurezza.csproj",
               "RelativeToolTip": "IntegritaSicurezza\\IntegritaSicurezza.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-18T07:57:47.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-18T07:57:47.967Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\GW\\IntegritaSicurezza\\IntegritaSicurezza\\Program.cs",
               "RelativeDocumentMoniker": "IntegritaSicurezza\\Program.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\IntegritaSicurezza\\IntegritaSicurezza\\Program.cs",
               "RelativeToolTip": "IntegritaSicurezza\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCIAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-18T07:56:24.399Z",
               "EditorCaption": ""

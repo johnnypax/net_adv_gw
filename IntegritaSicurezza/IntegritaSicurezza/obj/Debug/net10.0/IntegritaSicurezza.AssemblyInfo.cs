@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntegritaSicurezza")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+179a9e54b1f541da7d1c667b8476e688266dd91c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fb5115a558b97c7006748f40d932832719f89ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntegritaSicurezza")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntegritaSicurezza")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
