@@ -24,12 +24,13 @@ static Guid DeterministicGuid(int value)
     return new Guid(bytes);
 }
 
-string outputDir = args.ElementAtOrDefault(0) ?? "logs";
+//string outputDir = args.ElementAtOrDefault(0) ?? "logs";
+string outputDir = "C:\\Users\\ACADEMY\\source\\repos\\GW\\SimulatoreErroriLog\\ELK\\logs";
 Directory.CreateDirectory(outputDir);
-string outputPath = Path.Combine(outputDir, "release-incident.json");
+string outputPath = Path.Combine(outputDir, "release-incident.jsonl");
 
 var events = new List<Dictionary<string, object>>();
-DateTimeOffset start = DateTimeOffset.UtcNow.AddMinutes(-130);
+DateTimeOffset start = DateTimeOffset.UtcNow.AddMinutes(-250);
 Guid deploymentId = Guid.NewGuid();
 
 

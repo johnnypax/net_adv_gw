@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimulatoreErroriLog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b063a112c59321b9c33c785c98cb286c0fb633c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb8a006aa61fe7ee583789f3dcc5e548040c0103")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimulatoreErroriLog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimulatoreErroriLog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

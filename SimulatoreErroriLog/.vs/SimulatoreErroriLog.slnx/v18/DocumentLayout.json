@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\GW\\SimulatoreErroriLog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8C397B5-6EA6-4A07-BF04-2B49EE1873CC}|SimulatoreErroriLog\\SimulatoreErroriLog.csproj|c:\\users\\academy\\source\\repos\\gw\\simulatoreerrorilog\\simulatoreerrorilog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8C397B5-6EA6-4A07-BF04-2B49EE1873CC}|SimulatoreErroriLog\\SimulatoreErroriLog.csproj|solutionrelative:simulatoreerrorilog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3CB6ECD-56FB-ABC5-FFF3-FF058C451B24}|SimulatoreErroriLog\\SimulatoreErroriLog.csproj|c:\\users\\academy\\source\\repos\\gw\\simulatoreerrorilog\\simulatoreerrorilog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CB6ECD-56FB-ABC5-FFF3-FF058C451B24}|SimulatoreErroriLog\\SimulatoreErroriLog.csproj|solutionrelative:simulatoreerrorilog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "SimulatoreErroriLog\\Program.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\GW\\SimulatoreErroriLog\\SimulatoreErroriLog\\Program.cs",
               "RelativeToolTip": "SimulatoreErroriLog\\Program.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAqwEgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-18T11:59:12.554Z",
               "EditorCaption": ""
